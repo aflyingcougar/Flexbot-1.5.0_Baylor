@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BleConnectinManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BluetoothLeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDCommon.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/Transmitter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ui/Text.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/util/FileHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/util/Input.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/util/Output.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/util/Serializable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlexBot/src/main/java/com/vmc/ipc/service/ApConnectService.java" charset="UTF-8" />
+  </component>
+</project>

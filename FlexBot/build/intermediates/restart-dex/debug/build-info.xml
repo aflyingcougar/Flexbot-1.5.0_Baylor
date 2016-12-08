@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1055833554775485"
+    token="-8717104187827270857"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2769" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1516" />
+    <task
+        name="verifier"
+        duration="826" />
+
+    <artifact
+        location="C:\Users\Nigel\Dropbox\BattleDrone\Android App\New APP\Flexbot_v1.5.0_apkpure.com_source_from_JADX\Flexbot-1.5.0\FlexBot\build\outputs\apk\FlexBot-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1055833554775485"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Nigel\Dropbox\BattleDrone\Android App\New APP\Flexbot_v1.5.0_apkpure.com_source_from_JADX\Flexbot-1.5.0\FlexBot\build\outputs\apk\FlexBot-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
