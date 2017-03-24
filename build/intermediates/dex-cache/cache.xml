@@ -3,21 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Nigel\Dropbox\BattleDrone\Android App\New APP\Flexbot_v1.5.0_apkpure.com_source_from_JADX\Flexbot-1.5.0\FlexBot\libs\dd-plist.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f20e82467afa621db623c8e33be18783a57af1c4">
-        <dex dex="C:\Users\Nigel\Dropbox\BattleDrone\Android App\New APP\Flexbot_v1.5.0_apkpure.com_source_from_JADX\Flexbot-1.5.0\FlexBot\build\intermediates\pre-dexed\debug\dd-plist_e241354c4a8d28800db01da25f5bff2427d0d97c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Nigel\Dropbox\BattleDrone\Android App\New APP\Flexbot_v1.5.0_apkpure.com_source_from_JADX\Flexbot-1.5.0\FlexBot\libs\android-support-v4.jar"
+        jar="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\libs\android-support-v4.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
-        <dex dex="C:\Users\Nigel\Dropbox\BattleDrone\Android App\New APP\Flexbot_v1.5.0_apkpure.com_source_from_JADX\Flexbot-1.5.0\FlexBot\build\intermediates\pre-dexed\debug\android-support-v4_51e7141692d31647ea91e545227e39ca2cb7bb82.jar" />
+        <dex dex="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\build\intermediates\pre-dexed\debug\android-support-v4_67066e62bd22de8d7217bebef09d7f80790b2a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\libs\dd-plist.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f20e82467afa621db623c8e33be18783a57af1c4">
+        <dex dex="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\build\intermediates\pre-dexed\debug\dd-plist_f4735c8570f528123eee64287d655cf4e31afedb.jar" />
     </item>
 
 </items>

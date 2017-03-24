@@ -56,10 +56,10 @@ public class OSDCommon {
 	//Baylor Code ***************CodeWord***********************************
 	public static final int MSP_FIRE = 220;
 	public static final int MSP_LAUNCH = 221;
-	public static final int MSP_ALL_MOTOR = 222;
-	public static final int MSP_ONE_MOTOR = 223;
-	public static final int MSP_TWO_MOTOR = 224;
-	public static final int MSP_THREE_MOTOR = 225;
+	//public static final int MSP_ALL_MOTOR = 222;
+	//public static final int MSP_ONE_MOTOR = 223;
+	//public static final int MSP_TWO_MOTOR = 224;
+	//public static final int MSP_THREE_MOTOR = 225;
 
 	//end ******************************************************************
 	
@@ -104,11 +104,11 @@ public class OSDCommon {
 		 MSP_EEPROM_WRITE(250),          
 		 MSP_DEBUG(254),
 		 MSP_FIRE(220),
-		 MSP_LAUNCH(221),
-		 MSP_ALL_MOTOR(222),
-		 MSP_ONE_MOTOR(223),
-		 MSP_TWO_MOTOR(224),
-		 MSP_THREE_MOTOR(225);
+		 MSP_LAUNCH(221);
+		 //MSP_ALL_MOTOR(222),
+		 //MSP_ONE_MOTOR(223),
+		 //MSP_TWO_MOTOR(224),
+		 //MSP_THREE_MOTOR(225);
 
 		private int commandName;
 		

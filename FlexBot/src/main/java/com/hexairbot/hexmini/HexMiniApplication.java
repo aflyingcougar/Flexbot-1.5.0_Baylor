@@ -50,14 +50,14 @@ public class HexMiniApplication extends Application
 	private Text debugTextView;
 	
 	
-	public Text getDebugTextView() {
+	/*public Text getDebugTextView() {
 		return debugTextView;
 	}
 
 
 	public void setDebugTextView(Text debugTextView) {
 		this.debugTextView = debugTextView;
-	}
+	}*/
 
 	private float alt;
 	

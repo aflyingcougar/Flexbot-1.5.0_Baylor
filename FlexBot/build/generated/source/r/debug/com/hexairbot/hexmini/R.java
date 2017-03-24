@@ -157,7 +157,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int default_circle_indicator_gap=0x7f0b0000;
         public static final int default_circle_indicator_radius=0x7f0b0001;
         public static final int help_btn_settings_margin_top=0x7f0b0002;
-        public static final int hud_alt_hold_toggle_btn_margin_left=0x7f0b0003;
+        public static final int hud_alt_hold_toggle_btn_margin_right=0x7f0b0003;
         public static final int hud_alt_hold_toggle_btn_margin_top=0x7f0b0004;
         public static final int hud_batterry_indicator_margin_left=0x7f0b0005;
         public static final int hud_batterry_indicator_margin_top=0x7f0b0006;
@@ -172,73 +172,75 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int hud_btn_settings_margin_top=0x7f0b000f;
         public static final int hud_device_battery_indicator_margin_right=0x7f0b0010;
         public static final int hud_device_battery_indicator_margin_top=0x7f0b0011;
-        public static final int hud_joy_margin=0x7f0b0012;
-        public static final int hud_logo_margin_bottom=0x7f0b0013;
-        public static final int hud_logo_margin_left=0x7f0b0014;
-        public static final int hud_recording_idicator_margin_right=0x7f0b0015;
-        public static final int hud_recording_idicator_margin_top=0x7f0b0016;
-        public static final int hud_state_text_margin_left=0x7f0b0017;
-        public static final int hud_state_text_margin_top=0x7f0b0018;
-        public static final int hud_state_text_size=0x7f0b0019;
-        public static final int hud_status_bar_margin_left=0x7f0b001a;
-        public static final int hud_status_bar_margin_top=0x7f0b001b;
-        public static final int hud_top_text_margin_top=0x7f0b001c;
-        public static final int hud_wifi_indicator_margin_right=0x7f0b001d;
-        public static final int hud_wifi_indicator_margin_top=0x7f0b001e;
-        public static final int main_ble_margin_right=0x7f0b001f;
-        public static final int main_ble_margin_top=0x7f0b0020;
-        public static final int main_btn_capture_margin_left=0x7f0b0021;
-        public static final int main_btn_capture_margin_top=0x7f0b0022;
-        public static final int main_btn_gallery_margin_left=0x7f0b0023;
-        public static final int main_btn_gallery_margin_top=0x7f0b0024;
-        public static final int main_btn_lock_margin_top=0x7f0b0025;
-        public static final int main_btn_margin_left=0x7f0b0026;
-        public static final int main_btn_margin_right=0x7f0b0027;
-        public static final int main_btn_margin_top=0x7f0b0028;
-        public static final int main_btn_record_margin_left=0x7f0b0029;
-        public static final int main_btn_record_margin_top=0x7f0b002a;
-        public static final int main_btn_settings_margin_right=0x7f0b002b;
-        public static final int main_btn_settings_margin_top=0x7f0b002c;
-        public static final int main_btn_unlock_margin_bottom=0x7f0b002d;
-        public static final int main_device_battery_margin_right=0x7f0b002e;
-        public static final int main_device_battery_margin_top=0x7f0b002f;
-        public static final int main_indicator_margin_top=0x7f0b0030;
-        public static final int main_logo_margin_bottom=0x7f0b0031;
-        public static final int main_logo_margin_left=0x7f0b0032;
-        public static final int main_web_address_margin_bottom=0x7f0b0033;
-        public static final int main_web_address_margin_right=0x7f0b0034;
-        public static final int main_wifi_margin_right=0x7f0b0035;
-        public static final int main_wifi_margin_top=0x7f0b0036;
-        public static final int settings_btn_text_size=0x7f0b0037;
-        public static final int settings_button_h_padding=0x7f0b0038;
-        public static final int settings_button_left_padding=0x7f0b0039;
-        public static final int settings_button_right_padding=0x7f0b003a;
-        public static final int settings_calibration_btn_padding=0x7f0b003b;
-        public static final int settings_calibration_btn_vert_padding=0x7f0b003c;
-        public static final int settings_edit_network_name_width=0x7f0b003d;
-        public static final int settings_h_gap=0x7f0b003e;
-        public static final int settings_header_height=0x7f0b003f;
-        public static final int settings_header_text_size=0x7f0b0040;
-        public static final int settings_hor_gap=0x7f0b0041;
-        public static final int settings_indicator_text_size=0x7f0b0042;
-        public static final int settings_pager_button_width=0x7f0b0043;
-        public static final int settings_section_check_text_size=0x7f0b0044;
-        public static final int settings_section_video_item_height=0x7f0b0045;
-        public static final int settings_section_video_item_width=0x7f0b0046;
-        public static final int settings_seek_bounds_value_padding=0x7f0b0047;
-        public static final int settings_seek_text_padding_top=0x7f0b0048;
-        public static final int settings_seek_value_padding=0x7f0b0049;
-        public static final int settings_seek_width=0x7f0b004a;
-        public static final int settings_statusbar_button_text_size=0x7f0b004b;
-        public static final int settings_statusbar_button_width=0x7f0b004c;
-        public static final int settings_text_size=0x7f0b004d;
-        public static final int settings_text_small_size=0x7f0b004e;
-        public static final int settings_title_text_size=0x7f0b004f;
-        public static final int settings_v_gap=0x7f0b0050;
-        public static final int settings_v_gap_small=0x7f0b0051;
-        public static final int settings_vertical_gap=0x7f0b0052;
-        public static final int settings_vertical_gap_small=0x7f0b0053;
-        public static final int setttings_navigation_buton_width=0x7f0b0054;
+        public static final int hud_fire_btn_margin_left=0x7f0b0012;
+        public static final int hud_fire_btn_margin_top=0x7f0b0013;
+        public static final int hud_joy_margin=0x7f0b0014;
+        public static final int hud_logo_margin_bottom=0x7f0b0015;
+        public static final int hud_logo_margin_left=0x7f0b0016;
+        public static final int hud_recording_idicator_margin_right=0x7f0b0017;
+        public static final int hud_recording_idicator_margin_top=0x7f0b0018;
+        public static final int hud_state_text_margin_left=0x7f0b0019;
+        public static final int hud_state_text_margin_top=0x7f0b001a;
+        public static final int hud_state_text_size=0x7f0b001b;
+        public static final int hud_status_bar_margin_left=0x7f0b001c;
+        public static final int hud_status_bar_margin_top=0x7f0b001d;
+        public static final int hud_top_text_margin_top=0x7f0b001e;
+        public static final int hud_wifi_indicator_margin_right=0x7f0b001f;
+        public static final int hud_wifi_indicator_margin_top=0x7f0b0020;
+        public static final int main_ble_margin_right=0x7f0b0021;
+        public static final int main_ble_margin_top=0x7f0b0022;
+        public static final int main_btn_capture_margin_left=0x7f0b0023;
+        public static final int main_btn_capture_margin_top=0x7f0b0024;
+        public static final int main_btn_gallery_margin_left=0x7f0b0025;
+        public static final int main_btn_gallery_margin_top=0x7f0b0026;
+        public static final int main_btn_lock_margin_top=0x7f0b0027;
+        public static final int main_btn_margin_left=0x7f0b0028;
+        public static final int main_btn_margin_right=0x7f0b0029;
+        public static final int main_btn_margin_top=0x7f0b002a;
+        public static final int main_btn_record_margin_left=0x7f0b002b;
+        public static final int main_btn_record_margin_top=0x7f0b002c;
+        public static final int main_btn_settings_margin_right=0x7f0b002d;
+        public static final int main_btn_settings_margin_top=0x7f0b002e;
+        public static final int main_btn_unlock_margin_bottom=0x7f0b002f;
+        public static final int main_device_battery_margin_right=0x7f0b0030;
+        public static final int main_device_battery_margin_top=0x7f0b0031;
+        public static final int main_indicator_margin_top=0x7f0b0032;
+        public static final int main_logo_margin_bottom=0x7f0b0033;
+        public static final int main_logo_margin_left=0x7f0b0034;
+        public static final int main_web_address_margin_bottom=0x7f0b0035;
+        public static final int main_web_address_margin_right=0x7f0b0036;
+        public static final int main_wifi_margin_right=0x7f0b0037;
+        public static final int main_wifi_margin_top=0x7f0b0038;
+        public static final int settings_btn_text_size=0x7f0b0039;
+        public static final int settings_button_h_padding=0x7f0b003a;
+        public static final int settings_button_left_padding=0x7f0b003b;
+        public static final int settings_button_right_padding=0x7f0b003c;
+        public static final int settings_calibration_btn_padding=0x7f0b003d;
+        public static final int settings_calibration_btn_vert_padding=0x7f0b003e;
+        public static final int settings_edit_network_name_width=0x7f0b003f;
+        public static final int settings_h_gap=0x7f0b0040;
+        public static final int settings_header_height=0x7f0b0041;
+        public static final int settings_header_text_size=0x7f0b0042;
+        public static final int settings_hor_gap=0x7f0b0043;
+        public static final int settings_indicator_text_size=0x7f0b0044;
+        public static final int settings_pager_button_width=0x7f0b0045;
+        public static final int settings_section_check_text_size=0x7f0b0046;
+        public static final int settings_section_video_item_height=0x7f0b0047;
+        public static final int settings_section_video_item_width=0x7f0b0048;
+        public static final int settings_seek_bounds_value_padding=0x7f0b0049;
+        public static final int settings_seek_text_padding_top=0x7f0b004a;
+        public static final int settings_seek_value_padding=0x7f0b004b;
+        public static final int settings_seek_width=0x7f0b004c;
+        public static final int settings_statusbar_button_text_size=0x7f0b004d;
+        public static final int settings_statusbar_button_width=0x7f0b004e;
+        public static final int settings_text_size=0x7f0b004f;
+        public static final int settings_text_small_size=0x7f0b0050;
+        public static final int settings_title_text_size=0x7f0b0051;
+        public static final int settings_v_gap=0x7f0b0052;
+        public static final int settings_v_gap_small=0x7f0b0053;
+        public static final int settings_vertical_gap=0x7f0b0054;
+        public static final int settings_vertical_gap_small=0x7f0b0055;
+        public static final int setttings_navigation_buton_width=0x7f0b0056;
     }
     public static final class drawable {
         public static final int album_play_btn=0x7f020000;
@@ -736,15 +738,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f070000;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
         public static final int AppTheme=0x7f070003;
         public static final int BottomBarButton=0x7f070004;
         public static final int ButtonBar=0x7f070005;

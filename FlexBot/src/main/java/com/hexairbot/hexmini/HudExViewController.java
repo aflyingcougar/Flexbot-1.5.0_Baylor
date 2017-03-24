@@ -128,10 +128,6 @@ public class HudExViewController extends ViewController
     private static final int DEBUG_TEXT_VIEW      = 25;
 
 	//Define Baylor Resource IDs ******************************************************************
-	private static final int ALLMOTORS_BTN_ID         = 30;
-	private static final int ONEMOTORS_BTN_ID         = 31;
-	private static final int TWOMOTORS_BTN_ID         = 32;
-	private static final int THREEMOTORS_BTN_ID       = 33;
 	private static final int FIRE_BTN_ID              = 34;
 	private static final int LAUNCH_BTN_ID            = 35;
 	//End Resource IDs ****************************************************************************
@@ -155,10 +151,6 @@ public class HudExViewController extends ViewController
 	private Button recordBtn;
 
 	// Declare Additional Baylor Buttons *****************************************************
-	private ToggleButton allMotorsBtn;
-	private ToggleButton oneMotorsBtn;
-	private ToggleButton twoMotorsBtn;
-	private ToggleButton threeMotorsBtn;
 	private Button fireBtn;
 	private Button launchBtn;
 
@@ -321,8 +313,8 @@ public class HudExViewController extends ViewController
 		Image logo = new Image(res, R.drawable.logo_new, Align.BOTTOM_LEFT);
 		logo.setMargin(0, 0, (int)res.getDimension(R.dimen.main_logo_margin_bottom), (int)res.getDimension(R.dimen.main_logo_margin_left));
 		
-		Image web_address = new Image(res, R.drawable.web_address, Align.BOTTOM_RIGHT);
-		web_address.setMargin(0, (int)res.getDimension(R.dimen.main_web_address_margin_right), (int)res.getDimension(R.dimen.main_web_address_margin_bottom), 0);
+		//Image web_address = new Image(res, R.drawable.web_address, Align.BOTTOM_RIGHT);
+		//web_address.setMargin(0, (int)res.getDimension(R.dimen.main_web_address_margin_right), (int)res.getDimension(R.dimen.main_web_address_margin_bottom), 0);
 		
 		Button helpBtn = new Button(res, R.drawable.btn_help_normal, R.drawable.btn_help_hl, Align.TOP_RIGHT);
 		helpBtn.setMargin((int)res.getDimension(R.dimen.hud_btn_settings_margin_top), (int)res.getDimension(R.dimen.hud_btn_settings_margin_right) * 4, 0, 0);
@@ -358,12 +350,14 @@ public class HudExViewController extends ViewController
 
 		batteryIndicator = new Indicator(res, batteryIndicatorRes, Align.TOP_RIGHT);
 		batteryIndicator.setMargin((int)res.getDimension(R.dimen.main_device_battery_margin_top), (int)res.getDimension(R.dimen.main_device_battery_margin_right), 0, 0);
+
+		// AltHold
+		altHoldToggleBtn = new ToggleButton(res, R.drawable.btn_hold_off_normal, R.drawable.btn_hold_off_press,
+                R.drawable.btn_hold_on_normal, R.drawable.btn_hold_on_press,
+                R.drawable.btn_hold_on_normal, Align.TOP_RIGHT);
 		
-		altHoldToggleBtn = new ToggleButton(res, R.drawable.alt_hold_off, R.drawable.alt_hold_off_hl, 
-                R.drawable.alt_hold_on, R.drawable.alt_hold_on_hl,
-                R.drawable.alt_hold_on, Align.TOP_LEFT);
-		
-		altHoldToggleBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_top), 0, 0, 600);
+		altHoldToggleBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_top),
+				res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_right), 0, 0);
 		altHoldToggleBtn.setChecked(settings.isAltHoldMode());
 		altHoldToggleBtn.setVisible(true);                        //Make it Visible **********CodeWord******
 		
@@ -372,43 +366,14 @@ public class HudExViewController extends ViewController
 		
 		// Add Baylor Additional Buttons Here ****************************CodeWord****************************
 
-		//All Motors
-		allMotorsBtn = new ToggleButton(res, R.drawable.sd_allmotor_off,R.drawable.sd_allmotor_off,
-				R.drawable.sd_allmotor_on,R.drawable.sd_allmotor_on,
-				R.drawable.sd_allmotor_on,Align.TOP_LEFT);
-
-		allMotorsBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_top), 0, 0, 1100);
-		allMotorsBtn.setVisible(true);
-		allMotorsBtn.setChecked(true);
-
-		//One Motor
-		oneMotorsBtn = new ToggleButton(res, R.drawable.sd_onemotor_off,R.drawable.sd_onemotor_off,
-				R.drawable.sd_onemotor_on, R.drawable.sd_onemotor_on,
-				R.drawable.sd_onemotor_on,Align.TOP_LEFT);
-		oneMotorsBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_top), 0, 0, 1200);
-		oneMotorsBtn.setVisible(true);
-
-		// Two Motors
-		twoMotorsBtn = new ToggleButton(res, R.drawable.sd_twomotor_off,R.drawable.sd_twomotor_off,
-				R.drawable.sd_twomotor_on,R.drawable.sd_twomotor_on,
-				R.drawable.sd_twomotor_on, Align.TOP_LEFT);
-		twoMotorsBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_top), 0, 0, 1300);
-		twoMotorsBtn.setVisible(true);
-
-		// Three Motors
-		threeMotorsBtn = new ToggleButton(res, R.drawable.sd_threemotor_off, R.drawable.sd_threemotor_off,
-				R.drawable.sd_threemotor_on, R.drawable.sd_threemotor_on,
-				R.drawable.sd_threemotor_on, Align.TOP_LEFT);
-		threeMotorsBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_top), 0, 0, 1400);
-		threeMotorsBtn.setVisible(true);
-
 		// Launch Button
 		launchBtn = new Button(res, R.drawable.sd_lauchnow, R.drawable.sd_lauchnow, Align.TOP_CENTER);
-		launchBtn.setMargin(400,0,0,0);
+		launchBtn.setMargin(800,0,0,0);
 		launchBtn.setVisible(true);
 
 		// Fire Button
-		fireBtn = new Button(res, R.drawable.sd_firecannon,R.drawable.sd_firecannon,Align.BOTTOM_RIGHT);
+		fireBtn = new Button(res, R.drawable.btn_gesture_on_normal, R.drawable.sd_firecannon,Align.TOP_LEFT);
+        fireBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_fire_btn_margin_top), 0, 0, res.getDimensionPixelOffset(R.dimen.hud_fire_btn_margin_left));
 		fireBtn.setVisible(true);
 
 		// End Baylor Additional Buttons *********************************************************************
@@ -451,7 +416,7 @@ public class HudExViewController extends ViewController
 		buttons[6] = recordBtn;
 		buttons[7] = galleryBtn;
 		End Original ********************************************/
-		buttons = new Button[14];
+		buttons = new Button[10];
 		buttons[0] = settingsBtn;
 		buttons[1] = takeOffBtn;
 		buttons[2] = stopBtn;
@@ -460,26 +425,23 @@ public class HudExViewController extends ViewController
 		buttons[5] = captureBtn;
 		buttons[6] = recordBtn;
 		buttons[7] = galleryBtn;
-		buttons[8] = allMotorsBtn;
-		buttons[9] = oneMotorsBtn;
-		buttons[10] = twoMotorsBtn;
-		buttons[11] = threeMotorsBtn;
-		buttons[12] = launchBtn;
-		buttons[13] = fireBtn;
+		buttons[8] = launchBtn;
+		buttons[9] = fireBtn;
 		
-		String debugStr = "000, 000, 000, 0.0";
+		/*String debugStr = "000, 000, 000, 0.0";
 		debugTextView = new Text(context, debugStr, Align.TOP_LEFT);
 		debugTextView.setMargin((int)res.getDimension(R.dimen.hud_state_text_margin_top) * 2, 0, 0, 0);
 		debugTextView.setTextColor(Color.WHITE);
 		debugTextView.setTypeface(FontUtils.TYPEFACE.Helvetica(context));
 		debugTextView.setTextSize(res.getDimensionPixelSize(R.dimen.hud_state_text_size) * 2 / 3);
+		debugTextView.setVisible(false);
 
-		HexMiniApplication.sharedApplicaion().setDebugTextView(debugTextView);
+		HexMiniApplication.sharedApplicaion().setDebugTextView(debugTextView);*/
 		
 		
 		renderer.addSprite(MIDLLE_BG_ID, middleBg);				
 		renderer.addSprite(LOGO, logo);	
-		renderer.addSprite(WEB_ADDRESS, web_address);	
+		//renderer.addSprite(WEB_ADDRESS, web_address);
 		renderer.addSprite(BATTERY_INDICATOR_ID, batteryIndicator);
 		renderer.addSprite(TAKE_OFF_BTN_ID, takeOffBtn);
 		renderer.addSprite(STOP_BTN_ID, stopBtn);
@@ -492,14 +454,10 @@ public class HudExViewController extends ViewController
 		//renderer.addSprite(DEVICE_BATTERY_INDICATOR, deviceBatteryIndicator);
 		renderer.addSprite(RECORDING_INDICATOR, recordingIndicator);
 		renderer.addSprite(BLE_INDICATOR, bleIndicator);
-		renderer.addSprite(DEBUG_TEXT_VIEW, debugTextView);
+		//renderer.addSprite(DEBUG_TEXT_VIEW, debugTextView);
 		//renderer.addSprite(HELP_BTN, helpBtn);
 
 		// Add Baylor Buttons to Renderer *******************************CodeWord******************
-		renderer.addSprite(ALLMOTORS_BTN_ID, allMotorsBtn);
-		renderer.addSprite(ONEMOTORS_BTN_ID, oneMotorsBtn);
-		renderer.addSprite(TWOMOTORS_BTN_ID, twoMotorsBtn);
-		renderer.addSprite(THREEMOTORS_BTN_ID, threeMotorsBtn);
 		renderer.addSprite(LAUNCH_BTN_ID, launchBtn);
 		renderer.addSprite(FIRE_BTN_ID, fireBtn);
 		// End Renderer ***************************************************************************
@@ -749,52 +707,6 @@ public class HudExViewController extends ViewController
 		});
 
 		// Baylor Added Event Listeners Here*********************************CodeWord***************************
-		allMotorsBtn.setOnClickListener(new OnClickListener() {
-			@Override
-			public void onClick(View view) {
-				allMotorsBtn.setChecked(true);
-				oneMotorsBtn.setChecked(false);
-				twoMotorsBtn.setChecked(false);
-				threeMotorsBtn.setChecked(false);
-				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_ALL_MOTOR);
-			}
-		});
-
-		oneMotorsBtn.setOnClickListener(new OnClickListener() {
-			@Override
-			public void onClick(View view) {
-				allMotorsBtn.setChecked(false);
-				oneMotorsBtn.setChecked(true);
-				twoMotorsBtn.setChecked(false);
-				threeMotorsBtn.setChecked(false);
-				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_ONE_MOTOR);
-			}
-		});
-
-		twoMotorsBtn.setOnClickListener(new OnClickListener() {
-			@Override
-			public void onClick(View view) {
-				allMotorsBtn.setChecked(false);
-				oneMotorsBtn.setChecked(false);
-				twoMotorsBtn.setChecked(true);
-				threeMotorsBtn.setChecked(false);
-				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_TWO_MOTOR);
-			}
-		});
-
-		threeMotorsBtn.setOnClickListener(new OnClickListener() {
-			@Override
-			public void onClick(View view) {
-				allMotorsBtn.setChecked(false);
-				oneMotorsBtn.setChecked(false);
-				twoMotorsBtn.setChecked(false);
-				threeMotorsBtn.setChecked(true);
-				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_THREE_MOTOR);
-
-			}
-		});
-
-
 
 		launchBtn.setOnClickListener(new OnClickListener() {
 
