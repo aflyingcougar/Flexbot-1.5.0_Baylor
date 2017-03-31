@@ -247,7 +247,10 @@ public class ApplicationSettings {
 	
 	public void setIsAltHoldMode(boolean isAltHoldMode) {
 		this.isAltHoldMode = isAltHoldMode;
-		data.put(IS_LEFT_HANDED, isAltHoldMode);
+		// not sure why it uses IS_LEFT_HANDED. changed to IS_ALT_HOLD_MODE
+		// data.put(IS_LEFT_HANDED, isAltHoldMode);
+		data.put(IS_ALT_HOLD_MODE, isAltHoldMode);
+
 	}
 	
 	public float getAileronDeadBand() {

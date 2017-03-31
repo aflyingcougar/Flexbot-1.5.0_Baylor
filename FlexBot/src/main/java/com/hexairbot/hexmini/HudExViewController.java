@@ -667,7 +667,7 @@ public class HudExViewController extends ViewController
 
 			}
 		});
-		
+
 		takeOffBtn.setOnClickListener(new OnClickListener() {
 			
 			@Override
@@ -677,15 +677,29 @@ public class HudExViewController extends ViewController
 				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_ARM);
 			}
 		});
-		
+
+		// Baylor Edited DISARM Button Listener
 		stopBtn.setOnClickListener(new OnClickListener() {
 			
 			@Override
 			public void onClick(View arg0) {
+				// Disable AltHold when DISARM is selected
+				isAltHoldMode = false;
+				settings.setIsAltHoldMode(isAltHoldMode);
+				settings.save();
+				altHoldToggleBtn.setChecked(isAltHoldMode);
+
+				if (isAltHoldMode) {
+					aux2Channel.setValue(1);
+				}
+				else{
+					aux2Channel.setValue(-1);
+				}
+
 				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_DISARM);
 			}
 		});
-		
+		// End Baylor Edited DISARM Listener
 		
 		altHoldToggleBtn.setOnClickListener(new OnClickListener() {
 			
@@ -721,7 +735,6 @@ public class HudExViewController extends ViewController
 			@Override
 			public void onClick(View view) {
 				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_FIRE);
-				Log.d("Action Executed:", "Firing");
 			}
 		});
 		// End Baylor Event Listeners **************************************************************************
