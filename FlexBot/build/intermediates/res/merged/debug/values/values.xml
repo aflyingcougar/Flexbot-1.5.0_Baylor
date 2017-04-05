@@ -44,7 +44,7 @@
     <dimen name="default_circle_indicator_radius">3dp</dimen>
     <dimen name="help_btn_settings_margin_top">@dimen/hud_btn_settings_margin_top</dimen>
     <dimen name="hud_alt_hold_toggle_btn_margin_right">10dp</dimen>
-    <dimen name="hud_alt_hold_toggle_btn_margin_top">55dp</dimen>
+    <dimen name="hud_alt_hold_toggle_btn_margin_top">80dp</dimen>
     <dimen name="hud_batterry_indicator_margin_left">185dp</dimen>
     <dimen name="hud_batterry_indicator_margin_top">13dp</dimen>
     <dimen name="hud_battery_text_margin_top">@dimen/hud_top_text_margin_top</dimen>
@@ -59,7 +59,7 @@
     <dimen name="hud_device_battery_indicator_margin_right">250dp</dimen>
     <dimen name="hud_device_battery_indicator_margin_top">@dimen/hud_btn_record_margin_top</dimen>
     <dimen name="hud_fire_btn_margin_left">10dp</dimen>
-    <dimen name="hud_fire_btn_margin_top">55dp</dimen>
+    <dimen name="hud_fire_btn_margin_top">80dp</dimen>
     <dimen name="hud_joy_margin">25dp</dimen>
     <dimen name="hud_logo_margin_bottom">0dp</dimen>
     <dimen name="hud_logo_margin_left">40dp</dimen>
@@ -73,6 +73,8 @@
     <dimen name="hud_top_text_margin_top">14dp</dimen>
     <dimen name="hud_wifi_indicator_margin_right">205dp</dimen>
     <dimen name="hud_wifi_indicator_margin_top">@dimen/hud_btn_record_margin_top</dimen>
+    <dimen name="main_altHold_margin_right">140dp</dimen>
+    <dimen name="main_altHold_margin_top">@dimen/main_indicator_margin_top</dimen>
     <dimen name="main_ble_margin_right">100dp</dimen>
     <dimen name="main_ble_margin_top">@dimen/main_indicator_margin_top</dimen>
     <dimen name="main_btn_capture_margin_left">60dp</dimen>

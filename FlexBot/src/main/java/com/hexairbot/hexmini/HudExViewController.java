@@ -130,6 +130,7 @@ public class HudExViewController extends ViewController
 	//Define Baylor Resource IDs ******************************************************************
 	private static final int FIRE_BTN_ID              = 34;
 	private static final int LAUNCH_BTN_ID            = 35;
+	private static final int ALTHOLD_INDICATOR_ID	  = 36;
 	//End Resource IDs ****************************************************************************
 
 	private final float  BEGINNER_ELEVATOR_CHANNEL_RATIO  = 0.5f;
@@ -166,6 +167,10 @@ public class HudExViewController extends ViewController
 	private Indicator wifiIndicator;
 	private Indicator bleIndicator;
 	private AnimationIndicator recordingIndicator;
+
+	// Baylor Added Indicators
+	private Indicator altHoldIndicator;
+	// End Baylor Indicators
 	
 	private Text txtBatteryStatus;
 	
@@ -321,12 +326,18 @@ public class HudExViewController extends ViewController
 		
 		galleryBtn = new Button(res, R.drawable.btn_gallery_normal, R.drawable.btn_gallery_press, Align.TOP_LEFT); 
 		galleryBtn.setMargin((int)res.getDimension(R.dimen.main_btn_gallery_margin_top), 0, 0, (int)res.getDimension(R.dimen.main_btn_gallery_margin_left));
+		// Button is not in use
+		galleryBtn.setVisible(false);
 		
 		captureBtn = new Button(res, R.drawable.btn_capture_normal, R.drawable.btn_capture_press, Align.TOP_LEFT);
 		captureBtn.setMargin((int)res.getDimension(R.dimen.main_btn_capture_margin_top), 0, 0, (int)res.getDimension(R.dimen.main_btn_capture_margin_left));
+		// Button is not in use
+		captureBtn.setVisible(false);
 		
 		recordBtn = new Button(res, R.drawable.btn_record_video_normal, R.drawable.btn_record_video_press, Align.TOP_LEFT);
-		recordBtn.setMargin((int)res.getDimension(R.dimen.main_btn_record_margin_top), 0, 0, (int)res.getDimension(R.dimen.main_btn_record_margin_left));     
+		recordBtn.setMargin((int)res.getDimension(R.dimen.main_btn_record_margin_top), 0, 0, (int)res.getDimension(R.dimen.main_btn_record_margin_left));
+		// Button is not in use
+		recordBtn.setVisible(false);
 		
 		int recordingIndicatorRes[] = {R.drawable.btn_record_video_press, 
 				R.drawable.recording_status};
@@ -351,10 +362,10 @@ public class HudExViewController extends ViewController
 		batteryIndicator = new Indicator(res, batteryIndicatorRes, Align.TOP_RIGHT);
 		batteryIndicator.setMargin((int)res.getDimension(R.dimen.main_device_battery_margin_top), (int)res.getDimension(R.dimen.main_device_battery_margin_right), 0, 0);
 
-		// AltHold
-		altHoldToggleBtn = new ToggleButton(res, R.drawable.btn_hold_off_normal, R.drawable.btn_hold_off_press,
-                R.drawable.btn_hold_on_normal, R.drawable.btn_hold_on_press,
-                R.drawable.btn_hold_on_normal, Align.TOP_RIGHT);
+		// Baylor Modified AltHold
+		altHoldToggleBtn = new ToggleButton(res, R.drawable.althold_off_normal, R.drawable.althold_off_press,
+                R.drawable.althold_on_normal, R.drawable.althold_on_press,
+                R.drawable.althold_on_normal, Align.TOP_RIGHT);
 		
 		altHoldToggleBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_top),
 				res.getDimensionPixelOffset(R.dimen.hud_alt_hold_toggle_btn_margin_right), 0, 0);
@@ -372,7 +383,7 @@ public class HudExViewController extends ViewController
 		launchBtn.setVisible(true);
 
 		// Fire Button
-		fireBtn = new Button(res, R.drawable.btn_gesture_on_normal, R.drawable.sd_firecannon,Align.TOP_LEFT);
+		fireBtn = new Button(res, R.drawable.fire_off_normal, R.drawable.fire_on_normal,Align.TOP_LEFT);
         fireBtn.setMargin(res.getDimensionPixelOffset(R.dimen.hud_fire_btn_margin_top), 0, 0, res.getDimensionPixelOffset(R.dimen.hud_fire_btn_margin_left));
 		fireBtn.setVisible(true);
 
@@ -404,6 +415,18 @@ public class HudExViewController extends ViewController
 
 		deviceBatteryIndicator = new Indicator(res, deviceBatteryIndicatorRes, Align.TOP_RIGHT);
 		deviceBatteryIndicator.setMargin((int)res.getDimension(R.dimen.main_device_battery_margin_top), (int)res.getDimension(R.dimen.main_device_battery_margin_right), 0, 0);
+
+		// Baylor Added Indicators *****************************************************************
+
+		// Alt Hold
+		int altHoldIndicatorRes[] = {
+				R.drawable.althold_indicator_off,
+				R.drawable.althold_indicator_on
+		};
+		altHoldIndicator = new Indicator(res, altHoldIndicatorRes, Align.TOP_RIGHT);
+		altHoldIndicator.setMargin((int)res.getDimension(R.dimen.main_altHold_margin_top), (int)res.getDimension(R.dimen.main_altHold_margin_right), 0, 0);
+		altHoldIndicator.setValue(0);
+		// End Baylor Indicators *******************************************************************
 
 		/* Original ****************CodeWord******************
 		buttons = new Button[8];
@@ -447,19 +470,20 @@ public class HudExViewController extends ViewController
 		renderer.addSprite(STOP_BTN_ID, stopBtn);
 		renderer.addSprite(SETTINGS_BTN_ID, settingsBtn);
 		renderer.addSprite(ALT_HOLD_TOGGLE_BTN, altHoldToggleBtn);
-		renderer.addSprite(GALLERY_BTN, galleryBtn);
-		renderer.addSprite(CAPTURE_BTN, captureBtn);
-		renderer.addSprite(RECORD_BTN, recordBtn);
-		renderer.addSprite(WIFI_INDICATOR_ID, wifiIndicator);
+		//renderer.addSprite(GALLERY_BTN, galleryBtn);
+		//renderer.addSprite(CAPTURE_BTN, captureBtn);
+		//renderer.addSprite(RECORD_BTN, recordBtn);
+		//renderer.addSprite(WIFI_INDICATOR_ID, wifiIndicator);
 		//renderer.addSprite(DEVICE_BATTERY_INDICATOR, deviceBatteryIndicator);
 		renderer.addSprite(RECORDING_INDICATOR, recordingIndicator);
 		renderer.addSprite(BLE_INDICATOR, bleIndicator);
 		//renderer.addSprite(DEBUG_TEXT_VIEW, debugTextView);
 		//renderer.addSprite(HELP_BTN, helpBtn);
 
-		// Add Baylor Buttons to Renderer *******************************CodeWord******************
+		// Add Baylor Sprites to Renderer *******************************CodeWord******************
 		renderer.addSprite(LAUNCH_BTN_ID, launchBtn);
 		renderer.addSprite(FIRE_BTN_ID, fireBtn);
+		renderer.addSprite(ALTHOLD_INDICATOR_ID, altHoldIndicator);
 		// End Renderer ***************************************************************************
 		
 		
@@ -687,20 +711,28 @@ public class HudExViewController extends ViewController
 				isAltHoldMode = false;
 				settings.setIsAltHoldMode(isAltHoldMode);
 				settings.save();
+
 				altHoldToggleBtn.setChecked(isAltHoldMode);
 
 				if (isAltHoldMode) {
 					aux2Channel.setValue(1);
+
+					// Turn on Indicator
+					altHoldIndicator.setValue(1);
 				}
 				else{
 					aux2Channel.setValue(-1);
+
+					// Turn off Indicator
+					altHoldIndicator.setValue(0);
 				}
 
 				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_DISARM);
 			}
 		});
 		// End Baylor Edited DISARM Listener
-		
+
+		// Baylor Edited ALTHOLD Button Listener
 		altHoldToggleBtn.setOnClickListener(new OnClickListener() {
 			
 			@Override
@@ -713,12 +745,19 @@ public class HudExViewController extends ViewController
 				
 				if (isAltHoldMode) {
 					aux2Channel.setValue(1);
+
+					// Turn on Indicator
+					altHoldIndicator.setValue(1);
 				}
 				else{
 					aux2Channel.setValue(-1);
+
+					// Turn off Indicator
+					altHoldIndicator.setValue(0);
 				}
 			}
 		});
+		// End Baylor Edited ALTHOLD Listener
 
 		// Baylor Added Event Listeners Here*********************************CodeWord***************************
 
@@ -726,6 +765,13 @@ public class HudExViewController extends ViewController
 
 			@Override
 			public void onClick(View v) {
+				isAltHoldMode = true;
+				settings.setIsAltHoldMode(isAltHoldMode);
+				settings.save();
+
+				altHoldToggleBtn.setChecked(isAltHoldMode);
+				altHoldIndicator.setValue(1);
+
 				Transmitter.sharedTransmitter().transmmitSimpleCommand(OSDCommon.MSPCommnand.MSP_LAUNCH);
 
 			}

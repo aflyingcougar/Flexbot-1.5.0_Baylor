@@ -5,11 +5,11 @@
       <config />
     </shared>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c1a5358-9c33-40e2-9bd3-ec3510c6466e" name="Default" comment="">
+    <list default="true" id="eae3e0bf-1ea2-4968-a12f-0975b2481837" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/dd_plist.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -18,6 +18,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$10.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$10.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$11.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$11.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12$1.class" />
@@ -30,19 +31,57 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$16.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$16.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$17.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$17.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$18.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$4.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$5.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$6.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$6.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$7.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$7.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$8.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$8.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$9.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$9.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$CustomOnRecordCompleteListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$CustomOnRecordCompleteListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/ApplicationSettings.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/ApplicationSettings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$dimen.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$drawable.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$id.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$layout.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$menu.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$mipmap.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$raw.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$string.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$style.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$styleable.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$xml.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MainActivityLayout.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MainActivityLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/CustomSeekBar.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/CustomSeekBar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AcceleratorJoystick.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AcceleratorJoystick.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AnalogueJoystick.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AnalogueJoystick.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/zip-cache/DCpRNBO2_TWCfi6ggUnfdheaFT8=" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/zip-cache/DCpRNBO2_TWCfi6ggUnfdheaFT8=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/pre-dexed/debug/debug_c4caa4759d9daf252d8c74c87d2f0d022345110a.jar" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/pre-dexed/debug/debug_c4caa4759d9daf252d8c74c87d2f0d022345110a.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/outputs/apk/FlexBot-debug.apk" afterPath="$PROJECT_DIR$/FlexBot/build/outputs/apk/FlexBot-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/FlexBot.iml" afterPath="$PROJECT_DIR$/FlexBot/FlexBot.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/generated/source/r/debug/com/hexairbot/hexmini/R.java" afterPath="$PROJECT_DIR$/FlexBot/build/generated/source/r/debug/com/hexairbot/hexmini/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/FlexBot/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" afterPath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java" afterPath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" />
     </list>
     <ignored path="Flexbot-1.5.0_Baylor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,15 +102,6 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state />
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Flexbot-1.5.0_Baylor" />
   </component>
@@ -80,12 +110,46 @@
       <file leaf-file-name="HudExViewController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3298">
-              <caret line="177" column="32" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+            <state relative-caret-position="572">
+              <caret line="772" column="45" selection-start-line="772" selection-start-column="45" selection-end-line="772" selection-end-column="45" />
               <folding>
-                <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-                <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
+                <element signature="e#16525#16570#0" expanded="true" />
+                <element signature="e#17434#17483#0" expanded="true" />
+                <element signature="e#17490#17541#0" expanded="true" />
+                <element signature="e#21118#21144#0" expanded="true" />
+                <element signature="e#42010#42011#0" expanded="true" />
+                <element signature="e#42041#42042#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationSettings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_dimens.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hud_screen_dimens.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1675,11 +1739,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml" />
-        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java" />
-        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/Transmitter.java" />
-        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDCommon.java" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" />
         <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" />
-        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java" />
       </list>
     </option>
   </component>
@@ -1714,8 +1776,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1752,7 +1816,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="values" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1820,10 +1884,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlexBot" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1831,9 +1907,8 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="07abe358" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="2.2.0" />
-    <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
+    <property name="device.picker.selection" value="07abe358" />
   </component>
   <component name="RunManager" selected="Android App.FlexBot">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2079,7 +2154,7 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="DEBUGGER_TYPE" value="Auto" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -2134,22 +2209,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c1a5358-9c33-40e2-9bd3-ec3510c6466e" name="Default" comment="" />
-      <created>1489703913210</created>
+      <changelist id="eae3e0bf-1ea2-4968-a12f-0975b2481837" name="Default" comment="" />
+      <created>1491328832091</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1489703913210</updated>
+      <updated>1491328832091</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.50319827" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42316258" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2157,19 +2232,18 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2197,85 +2271,29 @@
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java</url>
-          <line>58</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-            <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDCommon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="77" column="16" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-            <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
+            <element signature="e#16525#16570#0" expanded="true" />
+            <element signature="e#17434#17483#0" expanded="true" />
+            <element signature="e#17490#17541#0" expanded="true" />
+            <element signature="e#21118#21144#0" expanded="true" />
+            <element signature="e#42010#42011#0" expanded="true" />
+            <element signature="e#42041#42042#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="12" />
+        <state relative-caret-position="85">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2283,365 +2301,49 @@
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-            <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-            <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDCommon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="77" column="16" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="63" column="40" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/MainExActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9146">
-          <caret line="585" column="46" selection-start-line="585" selection-start-column="46" selection-end-line="585" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-            <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDCommon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="77" column="16" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="63" column="40" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/MainExActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9146">
-          <caret line="585" column="46" selection-start-line="585" selection-start-column="46" selection-end-line="585" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-            <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/MainExActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9146">
-          <caret line="585" column="46" selection-start-line="585" selection-start-column="46" selection-end-line="585" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/drawable-xhdpi/btn_record_video_press.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/build/generated/source/r/debug/com/hexairbot/hexmini/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="160" column="32" selection-start-line="160" selection-start-column="32" selection-end-line="160" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/drawable-xhdpi/main_background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/drawable-xhdpi/logo_new.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ui/joystick/JoystickBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="208" column="68" selection-start-line="208" selection-start-column="62" selection-end-line="208" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/Transmitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="256" column="33" selection-start-line="256" selection-start-column="33" selection-end-line="256" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7837">
-          <caret line="575" column="29" selection-start-line="575" selection-start-column="29" selection-end-line="575" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/OSDCommon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="105" column="9" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewControllerDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsDialogDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1551">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/xml/settings.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_screen.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_net.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_mode.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_connection.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_personal.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudViewControllerDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="375" column="28" selection-start-line="375" selection-start-column="8" selection-end-line="375" selection-end-column="28" />
+        <state relative-caret-position="493">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="139" column="63" selection-start-line="139" selection-start-column="63" selection-end-line="139" selection-end-column="63" />
-          <folding>
-            <element signature="e#7285#7286#0" expanded="true" />
-            <element signature="e#7311#7312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HexMiniApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="122" column="36" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="36" />
+        <state relative-caret-position="309">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3298">
-          <caret line="177" column="32" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+        <state relative-caret-position="572">
+          <caret line="772" column="45" selection-start-line="772" selection-start-column="45" selection-end-line="772" selection-end-column="45" />
           <folding>
-            <marker date="1490767795013" expanded="false" signature="17575:17626" ph="@dimen/hud_top_text_margin_top" />
-            <marker date="1490767795013" expanded="false" signature="17781:17835" ph="12sp" />
+            <element signature="e#16525#16570#0" expanded="true" />
+            <element signature="e#17434#17483#0" expanded="true" />
+            <element signature="e#17490#17541#0" expanded="true" />
+            <element signature="e#21118#21144#0" expanded="true" />
+            <element signature="e#42010#42011#0" expanded="true" />
+            <element signature="e#42041#42042#0" expanded="true" />
           </folding>
         </state>
       </provider>
