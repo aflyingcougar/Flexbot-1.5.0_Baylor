@@ -5,6 +5,9 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eae3e0bf-1ea2-4968-a12f-0975b2481837" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_18.xml" afterPath="" />
@@ -15,73 +18,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$10.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$11.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$14.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$15.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$16.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$17.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$18.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$4.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$5.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$6.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$7.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$8.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$9.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$CustomOnRecordCompleteListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$CustomOnRecordCompleteListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$dimen.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$drawable.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$id.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$layout.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$menu.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$mipmap.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$raw.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$string.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$style.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$styleable.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$xml.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MainActivityLayout.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MainActivityLayout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/CustomSeekBar.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/CustomSeekBar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AcceleratorJoystick.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AcceleratorJoystick.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AnalogueJoystick.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AnalogueJoystick.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/zip-cache/DCpRNBO2_TWCfi6ggUnfdheaFT8=" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/zip-cache/DCpRNBO2_TWCfi6ggUnfdheaFT8=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/pre-dexed/debug/debug_c4caa4759d9daf252d8c74c87d2f0d022345110a.jar" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/pre-dexed/debug/debug_c4caa4759d9daf252d8c74c87d2f0d022345110a.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/outputs/apk/FlexBot-debug.apk" afterPath="$PROJECT_DIR$/FlexBot/build/outputs/apk/FlexBot-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/FlexBot.iml" afterPath="$PROJECT_DIR$/FlexBot/FlexBot.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/generated/source/r/debug/com/hexairbot/hexmini/R.java" afterPath="$PROJECT_DIR$/FlexBot/build/generated/source/r/debug/com/hexairbot/hexmini/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/FlexBot/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" afterPath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" />
     </list>
     <ignored path="Flexbot-1.5.0_Baylor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,15 +56,69 @@
       <file leaf-file-name="HudExViewController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="772" column="45" selection-start-line="772" selection-start-column="45" selection-end-line="772" selection-end-column="45" />
+            <state relative-caret-position="555">
+              <caret line="381" column="31" selection-start-line="381" selection-start-column="31" selection-end-line="381" selection-end-column="31" />
               <folding>
+                <element signature="e#11572#11621#0" expanded="true" />
+                <element signature="e#11628#11675#0" expanded="true" />
+                <element signature="e#12056#12109#0" expanded="true" />
+                <element signature="e#12116#12171#0" expanded="true" />
+                <element signature="e#12325#12378#0" expanded="true" />
+                <element signature="e#12391#12445#0" expanded="true" />
+                <element signature="e#12646#12699#0" expanded="true" />
+                <element signature="e#12712#12766#0" expanded="true" />
+                <element signature="e#12975#13027#0" expanded="true" />
+                <element signature="e#13040#13093#0" expanded="true" />
+                <element signature="e#13388#13440#0" expanded="true" />
+                <element signature="e#13453#13506#0" expanded="true" />
+                <element signature="e#14197#14253#0" expanded="true" />
+                <element signature="e#14260#14318#0" expanded="true" />
+                <element signature="e#14632#14703#0" expanded="true" />
+                <element signature="e#14709#14782#0" expanded="true" />
+                <element signature="e#15105#15159#0" expanded="true" />
+                <element signature="e#15166#15222#0" expanded="true" />
+                <element signature="e#15663#15723#0" expanded="true" />
+                <element signature="e#15731#15792#0" expanded="true" />
+                <element signature="e#16201#16247#0" expanded="true" />
+                <element signature="e#16254#16302#0" expanded="true" />
                 <element signature="e#16525#16570#0" expanded="true" />
+                <element signature="e#16577#16624#0" expanded="true" />
+                <element signature="e#16969#17025#0" expanded="true" />
+                <element signature="e#17032#17090#0" expanded="true" />
                 <element signature="e#17434#17483#0" expanded="true" />
                 <element signature="e#17490#17541#0" expanded="true" />
+                <element signature="e#20357#20585#0" expanded="true" />
+                <element signature="e#20584#20585#0" expanded="true" />
                 <element signature="e#21118#21144#0" expanded="true" />
-                <element signature="e#42010#42011#0" expanded="true" />
-                <element signature="e#42041#42042#0" expanded="true" />
+                <element signature="e#21161#21188#0" expanded="true" />
+                <element signature="e#21212#21234#0" expanded="true" />
+                <element signature="e#26157#26323#0" expanded="true" />
+                <element signature="e#26322#26323#0" expanded="true" />
+                <element signature="e#26359#26625#0" expanded="true" />
+                <element signature="e#26624#26625#0" expanded="true" />
+                <element signature="e#26700#27304#0" expanded="true" />
+                <element signature="e#27303#27304#0" expanded="true" />
+                <element signature="e#27428#27904#0" expanded="true" />
+                <element signature="e#27903#27904#0" expanded="true" />
+                <element signature="e#28087#28438#0" expanded="true" />
+                <element signature="e#28437#28438#0" expanded="true" />
+                <element signature="e#28471#28644#0" expanded="true" />
+                <element signature="e#28643#28644#0" expanded="true" />
+                <element signature="e#28854#29216#0" expanded="true" />
+                <element signature="e#29215#29216#0" expanded="true" />
+                <element signature="e#29254#30425#0" expanded="true" />
+                <element signature="e#30424#30425#0" expanded="true" />
+                <element signature="e#30462#31820#0" expanded="true" />
+                <element signature="e#30727#31737#0" expanded="true" />
+                <element signature="e#31458#31665#0" expanded="true" />
+                <element signature="e#31664#31665#0" expanded="true" />
+                <element signature="e#31736#31737#0" expanded="true" />
+                <element signature="e#31819#31820#0" expanded="true" />
+                <element signature="e#36092#36160#0" expanded="true" />
+                <element signature="e#43325#46566#0" expanded="true" />
+                <element signature="e#46565#46566#0" expanded="true" />
+                <element signature="e#50633#51128#0" expanded="true" />
+                <element signature="e#51127#51128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,7 +127,7 @@
       <file leaf-file-name="ApplicationSettings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
+            <state relative-caret-position="836">
               <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
               <folding />
             </state>
@@ -1746,10 +1746,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1776,10 +1776,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1788,118 +1786,10 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlexBot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlexBot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlexBot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlexBot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlexBot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlexBot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexmini" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlexBot" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1908,7 +1798,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="2.2.0" />
-    <property name="device.picker.selection" value="07abe358" />
+    <property name="device.picker.selection" value="Galaxy_Nexus_API_23" />
   </component>
   <component name="RunManager" selected="Android App.FlexBot">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2218,40 +2108,40 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25053418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2280,12 +2170,345 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#11572#11621#0" expanded="true" />
+            <element signature="e#11628#11675#0" expanded="true" />
+            <element signature="e#12056#12109#0" expanded="true" />
+            <element signature="e#12116#12171#0" expanded="true" />
+            <element signature="e#12325#12378#0" expanded="true" />
+            <element signature="e#12391#12445#0" expanded="true" />
+            <element signature="e#12646#12699#0" expanded="true" />
+            <element signature="e#12712#12766#0" expanded="true" />
+            <element signature="e#12975#13027#0" expanded="true" />
+            <element signature="e#13040#13093#0" expanded="true" />
+            <element signature="e#13388#13440#0" expanded="true" />
+            <element signature="e#13453#13506#0" expanded="true" />
+            <element signature="e#14197#14253#0" expanded="true" />
+            <element signature="e#14260#14318#0" expanded="true" />
+            <element signature="e#14632#14703#0" expanded="true" />
+            <element signature="e#14709#14782#0" expanded="true" />
+            <element signature="e#15105#15159#0" expanded="true" />
+            <element signature="e#15166#15222#0" expanded="true" />
+            <element signature="e#15663#15723#0" expanded="true" />
+            <element signature="e#15731#15792#0" expanded="true" />
+            <element signature="e#16201#16247#0" expanded="true" />
+            <element signature="e#16254#16302#0" expanded="true" />
             <element signature="e#16525#16570#0" expanded="true" />
+            <element signature="e#16577#16624#0" expanded="true" />
+            <element signature="e#16969#17025#0" expanded="true" />
+            <element signature="e#17032#17090#0" expanded="true" />
             <element signature="e#17434#17483#0" expanded="true" />
             <element signature="e#17490#17541#0" expanded="true" />
+            <element signature="e#20357#20585#0" expanded="true" />
+            <element signature="e#20584#20585#0" expanded="true" />
             <element signature="e#21118#21144#0" expanded="true" />
-            <element signature="e#42010#42011#0" expanded="true" />
-            <element signature="e#42041#42042#0" expanded="true" />
+            <element signature="e#21161#21188#0" expanded="true" />
+            <element signature="e#21212#21234#0" expanded="true" />
+            <element signature="e#26157#26323#0" expanded="true" />
+            <element signature="e#26322#26323#0" expanded="true" />
+            <element signature="e#26359#26625#0" expanded="true" />
+            <element signature="e#26624#26625#0" expanded="true" />
+            <element signature="e#26700#27304#0" expanded="true" />
+            <element signature="e#27303#27304#0" expanded="true" />
+            <element signature="e#27428#27904#0" expanded="true" />
+            <element signature="e#27903#27904#0" expanded="true" />
+            <element signature="e#28087#28438#0" expanded="true" />
+            <element signature="e#28437#28438#0" expanded="true" />
+            <element signature="e#28471#28644#0" expanded="true" />
+            <element signature="e#28643#28644#0" expanded="true" />
+            <element signature="e#28854#29216#0" expanded="true" />
+            <element signature="e#29215#29216#0" expanded="true" />
+            <element signature="e#29254#30425#0" expanded="true" />
+            <element signature="e#30424#30425#0" expanded="true" />
+            <element signature="e#30462#31820#0" expanded="true" />
+            <element signature="e#30727#31737#0" expanded="true" />
+            <element signature="e#31458#31665#0" expanded="true" />
+            <element signature="e#31664#31665#0" expanded="true" />
+            <element signature="e#31736#31737#0" expanded="true" />
+            <element signature="e#31819#31820#0" expanded="true" />
+            <element signature="e#36092#36160#0" expanded="true" />
+            <element signature="e#43325#46566#0" expanded="true" />
+            <element signature="e#46565#46566#0" expanded="true" />
+            <element signature="e#50633#51128#0" expanded="true" />
+            <element signature="e#51127#51128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#11572#11621#0" expanded="true" />
+            <element signature="e#11628#11675#0" expanded="true" />
+            <element signature="e#12056#12109#0" expanded="true" />
+            <element signature="e#12116#12171#0" expanded="true" />
+            <element signature="e#12325#12378#0" expanded="true" />
+            <element signature="e#12391#12445#0" expanded="true" />
+            <element signature="e#12646#12699#0" expanded="true" />
+            <element signature="e#12712#12766#0" expanded="true" />
+            <element signature="e#12975#13027#0" expanded="true" />
+            <element signature="e#13040#13093#0" expanded="true" />
+            <element signature="e#13388#13440#0" expanded="true" />
+            <element signature="e#13453#13506#0" expanded="true" />
+            <element signature="e#14197#14253#0" expanded="true" />
+            <element signature="e#14260#14318#0" expanded="true" />
+            <element signature="e#14632#14703#0" expanded="true" />
+            <element signature="e#14709#14782#0" expanded="true" />
+            <element signature="e#15105#15159#0" expanded="true" />
+            <element signature="e#15166#15222#0" expanded="true" />
+            <element signature="e#15663#15723#0" expanded="true" />
+            <element signature="e#15731#15792#0" expanded="true" />
+            <element signature="e#16201#16247#0" expanded="true" />
+            <element signature="e#16254#16302#0" expanded="true" />
+            <element signature="e#16525#16570#0" expanded="true" />
+            <element signature="e#16577#16624#0" expanded="true" />
+            <element signature="e#16969#17025#0" expanded="true" />
+            <element signature="e#17032#17090#0" expanded="true" />
+            <element signature="e#17434#17483#0" expanded="true" />
+            <element signature="e#17490#17541#0" expanded="true" />
+            <element signature="e#20357#20585#0" expanded="true" />
+            <element signature="e#20584#20585#0" expanded="true" />
+            <element signature="e#21118#21144#0" expanded="true" />
+            <element signature="e#21161#21188#0" expanded="true" />
+            <element signature="e#21212#21234#0" expanded="true" />
+            <element signature="e#26157#26323#0" expanded="true" />
+            <element signature="e#26322#26323#0" expanded="true" />
+            <element signature="e#26359#26625#0" expanded="true" />
+            <element signature="e#26624#26625#0" expanded="true" />
+            <element signature="e#26700#27304#0" expanded="true" />
+            <element signature="e#27303#27304#0" expanded="true" />
+            <element signature="e#27428#27904#0" expanded="true" />
+            <element signature="e#27903#27904#0" expanded="true" />
+            <element signature="e#28087#28438#0" expanded="true" />
+            <element signature="e#28437#28438#0" expanded="true" />
+            <element signature="e#28471#28644#0" expanded="true" />
+            <element signature="e#28643#28644#0" expanded="true" />
+            <element signature="e#28854#29216#0" expanded="true" />
+            <element signature="e#29215#29216#0" expanded="true" />
+            <element signature="e#29254#30425#0" expanded="true" />
+            <element signature="e#30424#30425#0" expanded="true" />
+            <element signature="e#30462#31820#0" expanded="true" />
+            <element signature="e#30727#31737#0" expanded="true" />
+            <element signature="e#31458#31665#0" expanded="true" />
+            <element signature="e#31664#31665#0" expanded="true" />
+            <element signature="e#31736#31737#0" expanded="true" />
+            <element signature="e#31819#31820#0" expanded="true" />
+            <element signature="e#36092#36160#0" expanded="true" />
+            <element signature="e#43325#46566#0" expanded="true" />
+            <element signature="e#46565#46566#0" expanded="true" />
+            <element signature="e#50633#51128#0" expanded="true" />
+            <element signature="e#51127#51128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#11572#11621#0" expanded="true" />
+            <element signature="e#11628#11675#0" expanded="true" />
+            <element signature="e#12056#12109#0" expanded="true" />
+            <element signature="e#12116#12171#0" expanded="true" />
+            <element signature="e#12325#12378#0" expanded="true" />
+            <element signature="e#12391#12445#0" expanded="true" />
+            <element signature="e#12646#12699#0" expanded="true" />
+            <element signature="e#12712#12766#0" expanded="true" />
+            <element signature="e#12975#13027#0" expanded="true" />
+            <element signature="e#13040#13093#0" expanded="true" />
+            <element signature="e#13388#13440#0" expanded="true" />
+            <element signature="e#13453#13506#0" expanded="true" />
+            <element signature="e#14197#14253#0" expanded="true" />
+            <element signature="e#14260#14318#0" expanded="true" />
+            <element signature="e#14632#14703#0" expanded="true" />
+            <element signature="e#14709#14782#0" expanded="true" />
+            <element signature="e#15105#15159#0" expanded="true" />
+            <element signature="e#15166#15222#0" expanded="true" />
+            <element signature="e#15663#15723#0" expanded="true" />
+            <element signature="e#15731#15792#0" expanded="true" />
+            <element signature="e#16201#16247#0" expanded="true" />
+            <element signature="e#16254#16302#0" expanded="true" />
+            <element signature="e#16525#16570#0" expanded="true" />
+            <element signature="e#16577#16624#0" expanded="true" />
+            <element signature="e#16969#17025#0" expanded="true" />
+            <element signature="e#17032#17090#0" expanded="true" />
+            <element signature="e#17434#17483#0" expanded="true" />
+            <element signature="e#17490#17541#0" expanded="true" />
+            <element signature="e#20357#20585#0" expanded="true" />
+            <element signature="e#20584#20585#0" expanded="true" />
+            <element signature="e#21118#21144#0" expanded="true" />
+            <element signature="e#21161#21188#0" expanded="true" />
+            <element signature="e#21212#21234#0" expanded="true" />
+            <element signature="e#26157#26323#0" expanded="true" />
+            <element signature="e#26322#26323#0" expanded="true" />
+            <element signature="e#26359#26625#0" expanded="true" />
+            <element signature="e#26624#26625#0" expanded="true" />
+            <element signature="e#26700#27304#0" expanded="true" />
+            <element signature="e#27303#27304#0" expanded="true" />
+            <element signature="e#27428#27904#0" expanded="true" />
+            <element signature="e#27903#27904#0" expanded="true" />
+            <element signature="e#28087#28438#0" expanded="true" />
+            <element signature="e#28437#28438#0" expanded="true" />
+            <element signature="e#28471#28644#0" expanded="true" />
+            <element signature="e#28643#28644#0" expanded="true" />
+            <element signature="e#28854#29216#0" expanded="true" />
+            <element signature="e#29215#29216#0" expanded="true" />
+            <element signature="e#29254#30425#0" expanded="true" />
+            <element signature="e#30424#30425#0" expanded="true" />
+            <element signature="e#30462#31820#0" expanded="true" />
+            <element signature="e#30727#31737#0" expanded="true" />
+            <element signature="e#31458#31665#0" expanded="true" />
+            <element signature="e#31664#31665#0" expanded="true" />
+            <element signature="e#31736#31737#0" expanded="true" />
+            <element signature="e#31819#31820#0" expanded="true" />
+            <element signature="e#36092#36160#0" expanded="true" />
+            <element signature="e#43325#46566#0" expanded="true" />
+            <element signature="e#46565#46566#0" expanded="true" />
+            <element signature="e#50633#51128#0" expanded="true" />
+            <element signature="e#51127#51128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#11572#11621#0" expanded="true" />
+            <element signature="e#11628#11675#0" expanded="true" />
+            <element signature="e#12056#12109#0" expanded="true" />
+            <element signature="e#12116#12171#0" expanded="true" />
+            <element signature="e#12325#12378#0" expanded="true" />
+            <element signature="e#12391#12445#0" expanded="true" />
+            <element signature="e#12646#12699#0" expanded="true" />
+            <element signature="e#12712#12766#0" expanded="true" />
+            <element signature="e#12975#13027#0" expanded="true" />
+            <element signature="e#13040#13093#0" expanded="true" />
+            <element signature="e#13388#13440#0" expanded="true" />
+            <element signature="e#13453#13506#0" expanded="true" />
+            <element signature="e#14197#14253#0" expanded="true" />
+            <element signature="e#14260#14318#0" expanded="true" />
+            <element signature="e#14632#14703#0" expanded="true" />
+            <element signature="e#14709#14782#0" expanded="true" />
+            <element signature="e#15105#15159#0" expanded="true" />
+            <element signature="e#15166#15222#0" expanded="true" />
+            <element signature="e#15663#15723#0" expanded="true" />
+            <element signature="e#15731#15792#0" expanded="true" />
+            <element signature="e#16201#16247#0" expanded="true" />
+            <element signature="e#16254#16302#0" expanded="true" />
+            <element signature="e#16525#16570#0" expanded="true" />
+            <element signature="e#16577#16624#0" expanded="true" />
+            <element signature="e#16969#17025#0" expanded="true" />
+            <element signature="e#17032#17090#0" expanded="true" />
+            <element signature="e#17434#17483#0" expanded="true" />
+            <element signature="e#17490#17541#0" expanded="true" />
+            <element signature="e#20357#20585#0" expanded="true" />
+            <element signature="e#20584#20585#0" expanded="true" />
+            <element signature="e#21118#21144#0" expanded="true" />
+            <element signature="e#21161#21188#0" expanded="true" />
+            <element signature="e#21212#21234#0" expanded="true" />
+            <element signature="e#26157#26323#0" expanded="true" />
+            <element signature="e#26322#26323#0" expanded="true" />
+            <element signature="e#26359#26625#0" expanded="true" />
+            <element signature="e#26624#26625#0" expanded="true" />
+            <element signature="e#26700#27304#0" expanded="true" />
+            <element signature="e#27303#27304#0" expanded="true" />
+            <element signature="e#27428#27904#0" expanded="true" />
+            <element signature="e#27903#27904#0" expanded="true" />
+            <element signature="e#28087#28438#0" expanded="true" />
+            <element signature="e#28437#28438#0" expanded="true" />
+            <element signature="e#28471#28644#0" expanded="true" />
+            <element signature="e#28643#28644#0" expanded="true" />
+            <element signature="e#28854#29216#0" expanded="true" />
+            <element signature="e#29215#29216#0" expanded="true" />
+            <element signature="e#29254#30425#0" expanded="true" />
+            <element signature="e#30424#30425#0" expanded="true" />
+            <element signature="e#30462#31820#0" expanded="true" />
+            <element signature="e#30727#31737#0" expanded="true" />
+            <element signature="e#31458#31665#0" expanded="true" />
+            <element signature="e#31664#31665#0" expanded="true" />
+            <element signature="e#31736#31737#0" expanded="true" />
+            <element signature="e#31819#31820#0" expanded="true" />
+            <element signature="e#36092#36160#0" expanded="true" />
+            <element signature="e#43325#46566#0" expanded="true" />
+            <element signature="e#46565#46566#0" expanded="true" />
+            <element signature="e#50633#51128#0" expanded="true" />
+            <element signature="e#51127#51128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2307,14 +2530,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
@@ -2327,7 +2550,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="836">
           <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
           <folding />
         </state>
@@ -2335,15 +2558,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="772" column="45" selection-start-line="772" selection-start-column="45" selection-end-line="772" selection-end-column="45" />
+        <state relative-caret-position="555">
+          <caret line="381" column="31" selection-start-line="381" selection-start-column="31" selection-end-line="381" selection-end-column="31" />
           <folding>
+            <element signature="e#11572#11621#0" expanded="true" />
+            <element signature="e#11628#11675#0" expanded="true" />
+            <element signature="e#12056#12109#0" expanded="true" />
+            <element signature="e#12116#12171#0" expanded="true" />
+            <element signature="e#12325#12378#0" expanded="true" />
+            <element signature="e#12391#12445#0" expanded="true" />
+            <element signature="e#12646#12699#0" expanded="true" />
+            <element signature="e#12712#12766#0" expanded="true" />
+            <element signature="e#12975#13027#0" expanded="true" />
+            <element signature="e#13040#13093#0" expanded="true" />
+            <element signature="e#13388#13440#0" expanded="true" />
+            <element signature="e#13453#13506#0" expanded="true" />
+            <element signature="e#14197#14253#0" expanded="true" />
+            <element signature="e#14260#14318#0" expanded="true" />
+            <element signature="e#14632#14703#0" expanded="true" />
+            <element signature="e#14709#14782#0" expanded="true" />
+            <element signature="e#15105#15159#0" expanded="true" />
+            <element signature="e#15166#15222#0" expanded="true" />
+            <element signature="e#15663#15723#0" expanded="true" />
+            <element signature="e#15731#15792#0" expanded="true" />
+            <element signature="e#16201#16247#0" expanded="true" />
+            <element signature="e#16254#16302#0" expanded="true" />
             <element signature="e#16525#16570#0" expanded="true" />
+            <element signature="e#16577#16624#0" expanded="true" />
+            <element signature="e#16969#17025#0" expanded="true" />
+            <element signature="e#17032#17090#0" expanded="true" />
             <element signature="e#17434#17483#0" expanded="true" />
             <element signature="e#17490#17541#0" expanded="true" />
+            <element signature="e#20357#20585#0" expanded="true" />
+            <element signature="e#20584#20585#0" expanded="true" />
             <element signature="e#21118#21144#0" expanded="true" />
-            <element signature="e#42010#42011#0" expanded="true" />
-            <element signature="e#42041#42042#0" expanded="true" />
+            <element signature="e#21161#21188#0" expanded="true" />
+            <element signature="e#21212#21234#0" expanded="true" />
+            <element signature="e#26157#26323#0" expanded="true" />
+            <element signature="e#26322#26323#0" expanded="true" />
+            <element signature="e#26359#26625#0" expanded="true" />
+            <element signature="e#26624#26625#0" expanded="true" />
+            <element signature="e#26700#27304#0" expanded="true" />
+            <element signature="e#27303#27304#0" expanded="true" />
+            <element signature="e#27428#27904#0" expanded="true" />
+            <element signature="e#27903#27904#0" expanded="true" />
+            <element signature="e#28087#28438#0" expanded="true" />
+            <element signature="e#28437#28438#0" expanded="true" />
+            <element signature="e#28471#28644#0" expanded="true" />
+            <element signature="e#28643#28644#0" expanded="true" />
+            <element signature="e#28854#29216#0" expanded="true" />
+            <element signature="e#29215#29216#0" expanded="true" />
+            <element signature="e#29254#30425#0" expanded="true" />
+            <element signature="e#30424#30425#0" expanded="true" />
+            <element signature="e#30462#31820#0" expanded="true" />
+            <element signature="e#30727#31737#0" expanded="true" />
+            <element signature="e#31458#31665#0" expanded="true" />
+            <element signature="e#31664#31665#0" expanded="true" />
+            <element signature="e#31736#31737#0" expanded="true" />
+            <element signature="e#31819#31820#0" expanded="true" />
+            <element signature="e#36092#36160#0" expanded="true" />
+            <element signature="e#43325#46566#0" expanded="true" />
+            <element signature="e#46565#46566#0" expanded="true" />
+            <element signature="e#50633#51128#0" expanded="true" />
+            <element signature="e#51127#51128#0" expanded="true" />
           </folding>
         </state>
       </provider>
