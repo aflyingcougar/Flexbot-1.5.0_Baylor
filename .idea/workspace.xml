@@ -2,32 +2,291 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <devices>
+          <device id="Nexus 4" />
+          <device id="Nexus 6" />
+        </devices>
+      </config>
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eae3e0bf-1ea2-4968-a12f-0975b2481837" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_18.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/dd_plist.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FlexBot_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/BuildConfig.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/Const.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/Const.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/CustomProgressDialog.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/CustomProgressDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$1$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$ImagebtnLinstener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$ImagebtnLinstener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$SaveBtnLinstener$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$SaveBtnLinstener$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$SaveBtnLinstener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity$SaveBtnLinstener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/FeedbackActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryDialog$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryDialog$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryDialog.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryDialogDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryDialogDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryViewController.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryViewController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryViewControllerDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/GalleryViewControllerDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HelpActivity$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HelpActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HelpActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HelpActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HelpViewAdapter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HelpViewAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HexMiniApplication$AppStage.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HexMiniApplication$AppStage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HexMiniApplication.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HexMiniApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$10.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$11.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$14.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$15.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$16.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$17.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$18.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$4.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$5.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$6.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$7.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$8.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$9.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$CustomOnRecordCompleteListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController$CustomOnRecordCompleteListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudExViewController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudViewControllerDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/HudViewControllerDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$4.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$5.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/MainExActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$array.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$array.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$attr.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$color.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$dimen.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$drawable.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$id.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$layout.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$menu.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$mipmap.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$raw.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$raw.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$string.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$style.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$styleable.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$xml.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsDialog$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsDialog$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsDialog.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsDialogDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsDialogDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$1$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$10$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$10$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$10.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$11.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$12.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$13.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$14.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$15.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$16.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$17.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$18.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$19.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$19.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$1$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$20.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$21.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$21.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$22.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$3$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$3$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$4.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$5.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$6.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$7.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$8$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$8$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$8.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$9$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$9$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$9.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$BleDeviceListAdapter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController$BleDeviceListAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewControllerDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/SettingsViewControllerDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ViewController.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ViewController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/adapter/SettingsViewAdapter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/adapter/SettingsViewAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManager$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManager$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManager$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManager$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManager.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManagerDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BleConnectinManagerDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BluetoothLeService$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BluetoothLeService$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BluetoothLeService$LocalBinder.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BluetoothLeService$LocalBinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BluetoothLeService.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ble/BluetoothLeService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/gestures/EnhancedGestureDetector.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/gestures/EnhancedGestureDetector.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$4.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MultiChoiceModeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MySimpleCursorAdapter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MySimpleCursorAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MyViewBinder.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity$MyViewBinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/GalleryActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialog$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialog$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialog$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialog$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialog.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialogHandler.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/IpcAlertDialogHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/activity/ShareMediaActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MainActivityLayout.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MainActivityLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MediaFile.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/MediaFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/NetSettingView$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/NetSettingView$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/NetSettingView.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/NetSettingView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/OnGalleryItemClick.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/OnGalleryItemClick.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/SettingView.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/SettingView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/SquareRelativeLayout.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/SquareRelativeLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoSettingView$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoSettingView$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoSettingView.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoSettingView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoStageRenderer.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoStageRenderer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoStageSurfaceSoftware.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/VideoStageSurfaceSoftware.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$ChangeObserver.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$ChangeObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$DisplayThumbTask.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$DisplayThumbTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$ItemViewHolder.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$ItemViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$LoadDataTask.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$LoadDataTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$MyDataSetObserver.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$MyDataSetObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$ThumbChangeObserver.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter$ThumbChangeObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/RemoteMediaAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/SettingsViewAdapter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ipc/view/adapter/SettingsViewAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/ApplicationSettings.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/ApplicationSettings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Channel.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Channel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDCommon$MSPCommnand.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDCommon$MSPCommnand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDCommon.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDCommon.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDData.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDDataDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/OSDDataDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Transmitter$1$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Transmitter$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Transmitter$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Transmitter$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Transmitter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/modal/Transmitter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationChangeDelegate.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationChangeDelegate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$3.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$CalculateFusedOrientationTask.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager$CalculateFusedOrientationTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceOrientationManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceSensorManagerWrapper.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/DeviceSensorManagerWrapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/SensorManagerWrapper.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/sensors/SensorManagerWrapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/AnimationIndicator.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/AnimationIndicator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Button.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Button.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Image$SizeParams.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Image$SizeParams.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Image.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Image.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Indicator.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Indicator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Sprite$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Sprite$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Sprite$Align.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Sprite$Align.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Sprite.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Sprite.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Text.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/Text.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/ToggleButton.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/ToggleButton.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/UIRenderer.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/UIRenderer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/CustomSeekBar.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/CustomSeekBar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/ViewPagerIndicator.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/control/ViewPagerIndicator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/gl/GLSprite.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/gl/GLSprite.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AcceleratorJoystick.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AcceleratorJoystick.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AnalogueJoystick.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/AnalogueJoystick.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickFactory$JoystickType.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickFactory$JoystickType.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickFactory.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/ui/joystick/JoystickListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/DebugHandler.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/DebugHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/FileHelper.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/FileHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/FontUtils$TYPEFACE.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/FontUtils$TYPEFACE.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/FontUtils.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/FontUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/Input.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/Input.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/Output.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/Output.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/Serializable.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/Serializable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHider$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHider$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHider$OnVisibilityChangeListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHider$OnVisibilityChangeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHider.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHiderBase.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHiderBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHiderHoneycomb$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHiderHoneycomb$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHiderHoneycomb.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUiHiderHoneycomb.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUtil.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/SystemUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/TextureUtils.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/hexairbot/hexmini/util/TextureUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/config/ConfigStoreHandler.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/config/ConfigStoreHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/config/VmcConfig.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/config/VmcConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FTPClient.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FTPClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpCallbackListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpCallbackListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpConnectedListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpConnectedListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpException.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpManager.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/ftp/FtpManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy$CallbackHandler.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy$CallbackHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy$OnRecordCompleteListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy$OnRecordCompleteListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/IpcProxy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/NavData.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/NavData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/VIConfig.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/proxy/VIConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$ApAdapter$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$ApAdapter$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$ApAdapter.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$ApAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$LocalBinder.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$LocalBinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$WifiAdmin.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService$WifiAdmin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ApConnectService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ConnectStateManager$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ConnectStateManager$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ConnectStateManager$ConnectStateChangedReceiver.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ConnectStateManager$ConnectStateChangedReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ConnectStateManager.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/ConnectStateManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService$1.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService$2.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService$LocalBinder.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService$LocalBinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/IpcControlService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/OnIpcConnectChangedListener.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/service/OnIpcConnectChangedListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/DebugHandler.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/DebugHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/FontUtils$TYPEFACE.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/FontUtils$TYPEFACE.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/FontUtils.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/FontUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/MediaUtil.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/MediaUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/SystemUtil.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/SystemUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/TextureUtils.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/util/TextureUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/view/VideoStageSurfaceHardware.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/view/VideoStageSurfaceHardware.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/view/gl/GLBGVideoSprite.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/view/gl/GLBGVideoSprite.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/view/gl/GLSprite.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/com/vmc/ipc/view/gl/GLSprite.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/fix/android/opengl/GLES20.class" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/classes/debug/fix/android/opengl/GLES20.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/zip-cache/DCpRNBO2_TWCfi6ggUnfdheaFT8=" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/zip-cache/DCpRNBO2_TWCfi6ggUnfdheaFT8=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/pre-dexed/debug/debug_c4caa4759d9daf252d8c74c87d2f0d022345110a.jar" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/pre-dexed/debug/debug_c4caa4759d9daf252d8c74c87d2f0d022345110a.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/outputs/apk/FlexBot-debug.apk" afterPath="$PROJECT_DIR$/FlexBot/build/outputs/apk/FlexBot-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/FlexBot.iml" afterPath="$PROJECT_DIR$/FlexBot/FlexBot.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build.gradle" afterPath="$PROJECT_DIR$/FlexBot/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/generated/source/r/debug/com/hexairbot/hexmini/R.java" afterPath="$PROJECT_DIR$/FlexBot/build/generated/source/r/debug/com/hexairbot/hexmini/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/layout/settings_page_connection.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/layout/settings_page_connection.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/FlexBot/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" afterPath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewController.java" afterPath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BleConnectinManager.java" afterPath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BleConnectinManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BluetoothLeService.java" afterPath="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BluetoothLeService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_connection.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_connection.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" afterPath="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" />
     </list>
     <ignored path="Flexbot-1.5.0_Baylor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,109 +311,7 @@
     <favorites_list name="Flexbot-1.5.0_Baylor" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HudExViewController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="381" column="31" selection-start-line="381" selection-start-column="31" selection-end-line="381" selection-end-column="31" />
-              <folding>
-                <element signature="e#11572#11621#0" expanded="true" />
-                <element signature="e#11628#11675#0" expanded="true" />
-                <element signature="e#12056#12109#0" expanded="true" />
-                <element signature="e#12116#12171#0" expanded="true" />
-                <element signature="e#12325#12378#0" expanded="true" />
-                <element signature="e#12391#12445#0" expanded="true" />
-                <element signature="e#12646#12699#0" expanded="true" />
-                <element signature="e#12712#12766#0" expanded="true" />
-                <element signature="e#12975#13027#0" expanded="true" />
-                <element signature="e#13040#13093#0" expanded="true" />
-                <element signature="e#13388#13440#0" expanded="true" />
-                <element signature="e#13453#13506#0" expanded="true" />
-                <element signature="e#14197#14253#0" expanded="true" />
-                <element signature="e#14260#14318#0" expanded="true" />
-                <element signature="e#14632#14703#0" expanded="true" />
-                <element signature="e#14709#14782#0" expanded="true" />
-                <element signature="e#15105#15159#0" expanded="true" />
-                <element signature="e#15166#15222#0" expanded="true" />
-                <element signature="e#15663#15723#0" expanded="true" />
-                <element signature="e#15731#15792#0" expanded="true" />
-                <element signature="e#16201#16247#0" expanded="true" />
-                <element signature="e#16254#16302#0" expanded="true" />
-                <element signature="e#16525#16570#0" expanded="true" />
-                <element signature="e#16577#16624#0" expanded="true" />
-                <element signature="e#16969#17025#0" expanded="true" />
-                <element signature="e#17032#17090#0" expanded="true" />
-                <element signature="e#17434#17483#0" expanded="true" />
-                <element signature="e#17490#17541#0" expanded="true" />
-                <element signature="e#20357#20585#0" expanded="true" />
-                <element signature="e#20584#20585#0" expanded="true" />
-                <element signature="e#21118#21144#0" expanded="true" />
-                <element signature="e#21161#21188#0" expanded="true" />
-                <element signature="e#21212#21234#0" expanded="true" />
-                <element signature="e#26157#26323#0" expanded="true" />
-                <element signature="e#26322#26323#0" expanded="true" />
-                <element signature="e#26359#26625#0" expanded="true" />
-                <element signature="e#26624#26625#0" expanded="true" />
-                <element signature="e#26700#27304#0" expanded="true" />
-                <element signature="e#27303#27304#0" expanded="true" />
-                <element signature="e#27428#27904#0" expanded="true" />
-                <element signature="e#27903#27904#0" expanded="true" />
-                <element signature="e#28087#28438#0" expanded="true" />
-                <element signature="e#28437#28438#0" expanded="true" />
-                <element signature="e#28471#28644#0" expanded="true" />
-                <element signature="e#28643#28644#0" expanded="true" />
-                <element signature="e#28854#29216#0" expanded="true" />
-                <element signature="e#29215#29216#0" expanded="true" />
-                <element signature="e#29254#30425#0" expanded="true" />
-                <element signature="e#30424#30425#0" expanded="true" />
-                <element signature="e#30462#31820#0" expanded="true" />
-                <element signature="e#30727#31737#0" expanded="true" />
-                <element signature="e#31458#31665#0" expanded="true" />
-                <element signature="e#31664#31665#0" expanded="true" />
-                <element signature="e#31736#31737#0" expanded="true" />
-                <element signature="e#31819#31820#0" expanded="true" />
-                <element signature="e#36092#36160#0" expanded="true" />
-                <element signature="e#43325#46566#0" expanded="true" />
-                <element signature="e#46565#46566#0" expanded="true" />
-                <element signature="e#50633#51128#0" expanded="true" />
-                <element signature="e#51127#51128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApplicationSettings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_dimens.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hud_screen_dimens.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1739,17 +1896,25 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml" />
-        <option value="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" />
+        <option value="$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/res/layout/ble_device_list_row.xml" />
         <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_connection.xml" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/Transmitter.java" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BleConnectinManager.java" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewController.java" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BluetoothLeService.java" />
+        <option value="$PROJECT_DIR$/FlexBot/build.gradle" />
+        <option value="$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="1" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1776,14 +1941,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flexbot-1.5.0_Baylor" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlexBot" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1798,7 +1977,10 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="2.2.0" />
-    <property name="device.picker.selection" value="Galaxy_Nexus_API_23" />
+    <property name="device.picker.selection" value="79HIOJY5SW49IRRK" />
+    <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlEditorPanel.WIDTH" value="339" />
+    <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.NlPropertiesWindowManager-NlEditorPanel.WIDTH" value="459" />
   </component>
   <component name="RunManager" selected="Android App.FlexBot">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2108,40 +2290,41 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.50319827" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33073497" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.4968017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25053418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.50319827" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25053304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2167,69 +2350,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5406">
+          <caret line="405" column="36" selection-start-line="405" selection-start-column="36" selection-end-line="405" selection-end-column="36" />
+          <folding>
+            <element signature="e#15478#15537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#11572#11621#0" expanded="true" />
-            <element signature="e#11628#11675#0" expanded="true" />
-            <element signature="e#12056#12109#0" expanded="true" />
-            <element signature="e#12116#12171#0" expanded="true" />
-            <element signature="e#12325#12378#0" expanded="true" />
-            <element signature="e#12391#12445#0" expanded="true" />
-            <element signature="e#12646#12699#0" expanded="true" />
-            <element signature="e#12712#12766#0" expanded="true" />
-            <element signature="e#12975#13027#0" expanded="true" />
-            <element signature="e#13040#13093#0" expanded="true" />
-            <element signature="e#13388#13440#0" expanded="true" />
-            <element signature="e#13453#13506#0" expanded="true" />
-            <element signature="e#14197#14253#0" expanded="true" />
-            <element signature="e#14260#14318#0" expanded="true" />
-            <element signature="e#14632#14703#0" expanded="true" />
-            <element signature="e#14709#14782#0" expanded="true" />
-            <element signature="e#15105#15159#0" expanded="true" />
-            <element signature="e#15166#15222#0" expanded="true" />
-            <element signature="e#15663#15723#0" expanded="true" />
-            <element signature="e#15731#15792#0" expanded="true" />
-            <element signature="e#16201#16247#0" expanded="true" />
-            <element signature="e#16254#16302#0" expanded="true" />
-            <element signature="e#16525#16570#0" expanded="true" />
-            <element signature="e#16577#16624#0" expanded="true" />
-            <element signature="e#16969#17025#0" expanded="true" />
-            <element signature="e#17032#17090#0" expanded="true" />
-            <element signature="e#17434#17483#0" expanded="true" />
-            <element signature="e#17490#17541#0" expanded="true" />
-            <element signature="e#20357#20585#0" expanded="true" />
-            <element signature="e#20584#20585#0" expanded="true" />
-            <element signature="e#21118#21144#0" expanded="true" />
-            <element signature="e#21161#21188#0" expanded="true" />
-            <element signature="e#21212#21234#0" expanded="true" />
-            <element signature="e#26157#26323#0" expanded="true" />
-            <element signature="e#26322#26323#0" expanded="true" />
-            <element signature="e#26359#26625#0" expanded="true" />
-            <element signature="e#26624#26625#0" expanded="true" />
-            <element signature="e#26700#27304#0" expanded="true" />
-            <element signature="e#27303#27304#0" expanded="true" />
-            <element signature="e#27428#27904#0" expanded="true" />
-            <element signature="e#27903#27904#0" expanded="true" />
-            <element signature="e#28087#28438#0" expanded="true" />
-            <element signature="e#28437#28438#0" expanded="true" />
-            <element signature="e#28471#28644#0" expanded="true" />
-            <element signature="e#28643#28644#0" expanded="true" />
-            <element signature="e#28854#29216#0" expanded="true" />
-            <element signature="e#29215#29216#0" expanded="true" />
-            <element signature="e#29254#30425#0" expanded="true" />
-            <element signature="e#30424#30425#0" expanded="true" />
-            <element signature="e#30462#31820#0" expanded="true" />
-            <element signature="e#30727#31737#0" expanded="true" />
-            <element signature="e#31458#31665#0" expanded="true" />
-            <element signature="e#31664#31665#0" expanded="true" />
-            <element signature="e#31736#31737#0" expanded="true" />
-            <element signature="e#31819#31820#0" expanded="true" />
-            <element signature="e#36092#36160#0" expanded="true" />
-            <element signature="e#43325#46566#0" expanded="true" />
-            <element signature="e#46565#46566#0" expanded="true" />
-            <element signature="e#50633#51128#0" expanded="true" />
-            <element signature="e#51127#51128#0" expanded="true" />
+            <element signature="e#4072#4602#0" expanded="true" />
+            <element signature="e#4601#4602#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2238,7 +2373,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4624">
+          <caret line="359" column="10" selection-start-line="359" selection-start-column="10" selection-end-line="359" selection-end-column="10" />
+          <folding>
+            <element signature="e#15478#15537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15478#15537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -2263,66 +2463,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#11572#11621#0" expanded="true" />
-            <element signature="e#11628#11675#0" expanded="true" />
-            <element signature="e#12056#12109#0" expanded="true" />
-            <element signature="e#12116#12171#0" expanded="true" />
-            <element signature="e#12325#12378#0" expanded="true" />
-            <element signature="e#12391#12445#0" expanded="true" />
-            <element signature="e#12646#12699#0" expanded="true" />
-            <element signature="e#12712#12766#0" expanded="true" />
-            <element signature="e#12975#13027#0" expanded="true" />
-            <element signature="e#13040#13093#0" expanded="true" />
-            <element signature="e#13388#13440#0" expanded="true" />
-            <element signature="e#13453#13506#0" expanded="true" />
-            <element signature="e#14197#14253#0" expanded="true" />
-            <element signature="e#14260#14318#0" expanded="true" />
-            <element signature="e#14632#14703#0" expanded="true" />
-            <element signature="e#14709#14782#0" expanded="true" />
-            <element signature="e#15105#15159#0" expanded="true" />
-            <element signature="e#15166#15222#0" expanded="true" />
-            <element signature="e#15663#15723#0" expanded="true" />
-            <element signature="e#15731#15792#0" expanded="true" />
-            <element signature="e#16201#16247#0" expanded="true" />
-            <element signature="e#16254#16302#0" expanded="true" />
-            <element signature="e#16525#16570#0" expanded="true" />
-            <element signature="e#16577#16624#0" expanded="true" />
-            <element signature="e#16969#17025#0" expanded="true" />
-            <element signature="e#17032#17090#0" expanded="true" />
-            <element signature="e#17434#17483#0" expanded="true" />
-            <element signature="e#17490#17541#0" expanded="true" />
-            <element signature="e#20357#20585#0" expanded="true" />
-            <element signature="e#20584#20585#0" expanded="true" />
-            <element signature="e#21118#21144#0" expanded="true" />
-            <element signature="e#21161#21188#0" expanded="true" />
-            <element signature="e#21212#21234#0" expanded="true" />
-            <element signature="e#26157#26323#0" expanded="true" />
-            <element signature="e#26322#26323#0" expanded="true" />
-            <element signature="e#26359#26625#0" expanded="true" />
-            <element signature="e#26624#26625#0" expanded="true" />
-            <element signature="e#26700#27304#0" expanded="true" />
-            <element signature="e#27303#27304#0" expanded="true" />
-            <element signature="e#27428#27904#0" expanded="true" />
-            <element signature="e#27903#27904#0" expanded="true" />
-            <element signature="e#28087#28438#0" expanded="true" />
-            <element signature="e#28437#28438#0" expanded="true" />
-            <element signature="e#28471#28644#0" expanded="true" />
-            <element signature="e#28643#28644#0" expanded="true" />
-            <element signature="e#28854#29216#0" expanded="true" />
-            <element signature="e#29215#29216#0" expanded="true" />
-            <element signature="e#29254#30425#0" expanded="true" />
-            <element signature="e#30424#30425#0" expanded="true" />
-            <element signature="e#30462#31820#0" expanded="true" />
-            <element signature="e#30727#31737#0" expanded="true" />
-            <element signature="e#31458#31665#0" expanded="true" />
-            <element signature="e#31664#31665#0" expanded="true" />
-            <element signature="e#31736#31737#0" expanded="true" />
-            <element signature="e#31819#31820#0" expanded="true" />
-            <element signature="e#36092#36160#0" expanded="true" />
-            <element signature="e#43325#46566#0" expanded="true" />
-            <element signature="e#46565#46566#0" expanded="true" />
-            <element signature="e#50633#51128#0" expanded="true" />
-            <element signature="e#51127#51128#0" expanded="true" />
+            <element signature="e#15478#15537#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2331,7 +2472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2356,66 +2496,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#11572#11621#0" expanded="true" />
-            <element signature="e#11628#11675#0" expanded="true" />
-            <element signature="e#12056#12109#0" expanded="true" />
-            <element signature="e#12116#12171#0" expanded="true" />
-            <element signature="e#12325#12378#0" expanded="true" />
-            <element signature="e#12391#12445#0" expanded="true" />
-            <element signature="e#12646#12699#0" expanded="true" />
-            <element signature="e#12712#12766#0" expanded="true" />
-            <element signature="e#12975#13027#0" expanded="true" />
-            <element signature="e#13040#13093#0" expanded="true" />
-            <element signature="e#13388#13440#0" expanded="true" />
-            <element signature="e#13453#13506#0" expanded="true" />
-            <element signature="e#14197#14253#0" expanded="true" />
-            <element signature="e#14260#14318#0" expanded="true" />
-            <element signature="e#14632#14703#0" expanded="true" />
-            <element signature="e#14709#14782#0" expanded="true" />
-            <element signature="e#15105#15159#0" expanded="true" />
-            <element signature="e#15166#15222#0" expanded="true" />
-            <element signature="e#15663#15723#0" expanded="true" />
-            <element signature="e#15731#15792#0" expanded="true" />
-            <element signature="e#16201#16247#0" expanded="true" />
-            <element signature="e#16254#16302#0" expanded="true" />
-            <element signature="e#16525#16570#0" expanded="true" />
-            <element signature="e#16577#16624#0" expanded="true" />
-            <element signature="e#16969#17025#0" expanded="true" />
-            <element signature="e#17032#17090#0" expanded="true" />
-            <element signature="e#17434#17483#0" expanded="true" />
-            <element signature="e#17490#17541#0" expanded="true" />
-            <element signature="e#20357#20585#0" expanded="true" />
-            <element signature="e#20584#20585#0" expanded="true" />
-            <element signature="e#21118#21144#0" expanded="true" />
-            <element signature="e#21161#21188#0" expanded="true" />
-            <element signature="e#21212#21234#0" expanded="true" />
-            <element signature="e#26157#26323#0" expanded="true" />
-            <element signature="e#26322#26323#0" expanded="true" />
-            <element signature="e#26359#26625#0" expanded="true" />
-            <element signature="e#26624#26625#0" expanded="true" />
-            <element signature="e#26700#27304#0" expanded="true" />
-            <element signature="e#27303#27304#0" expanded="true" />
-            <element signature="e#27428#27904#0" expanded="true" />
-            <element signature="e#27903#27904#0" expanded="true" />
-            <element signature="e#28087#28438#0" expanded="true" />
-            <element signature="e#28437#28438#0" expanded="true" />
-            <element signature="e#28471#28644#0" expanded="true" />
-            <element signature="e#28643#28644#0" expanded="true" />
-            <element signature="e#28854#29216#0" expanded="true" />
-            <element signature="e#29215#29216#0" expanded="true" />
-            <element signature="e#29254#30425#0" expanded="true" />
-            <element signature="e#30424#30425#0" expanded="true" />
-            <element signature="e#30462#31820#0" expanded="true" />
-            <element signature="e#30727#31737#0" expanded="true" />
-            <element signature="e#31458#31665#0" expanded="true" />
-            <element signature="e#31664#31665#0" expanded="true" />
-            <element signature="e#31736#31737#0" expanded="true" />
-            <element signature="e#31819#31820#0" expanded="true" />
-            <element signature="e#36092#36160#0" expanded="true" />
-            <element signature="e#43325#46566#0" expanded="true" />
-            <element signature="e#46565#46566#0" expanded="true" />
-            <element signature="e#50633#51128#0" expanded="true" />
-            <element signature="e#51127#51128#0" expanded="true" />
+            <element signature="e#15478#15537#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2424,7 +2505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2449,66 +2529,40 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#11572#11621#0" expanded="true" />
-            <element signature="e#11628#11675#0" expanded="true" />
-            <element signature="e#12056#12109#0" expanded="true" />
-            <element signature="e#12116#12171#0" expanded="true" />
-            <element signature="e#12325#12378#0" expanded="true" />
-            <element signature="e#12391#12445#0" expanded="true" />
-            <element signature="e#12646#12699#0" expanded="true" />
-            <element signature="e#12712#12766#0" expanded="true" />
-            <element signature="e#12975#13027#0" expanded="true" />
-            <element signature="e#13040#13093#0" expanded="true" />
-            <element signature="e#13388#13440#0" expanded="true" />
-            <element signature="e#13453#13506#0" expanded="true" />
-            <element signature="e#14197#14253#0" expanded="true" />
-            <element signature="e#14260#14318#0" expanded="true" />
-            <element signature="e#14632#14703#0" expanded="true" />
-            <element signature="e#14709#14782#0" expanded="true" />
-            <element signature="e#15105#15159#0" expanded="true" />
-            <element signature="e#15166#15222#0" expanded="true" />
-            <element signature="e#15663#15723#0" expanded="true" />
-            <element signature="e#15731#15792#0" expanded="true" />
-            <element signature="e#16201#16247#0" expanded="true" />
-            <element signature="e#16254#16302#0" expanded="true" />
-            <element signature="e#16525#16570#0" expanded="true" />
-            <element signature="e#16577#16624#0" expanded="true" />
-            <element signature="e#16969#17025#0" expanded="true" />
-            <element signature="e#17032#17090#0" expanded="true" />
-            <element signature="e#17434#17483#0" expanded="true" />
-            <element signature="e#17490#17541#0" expanded="true" />
-            <element signature="e#20357#20585#0" expanded="true" />
-            <element signature="e#20584#20585#0" expanded="true" />
-            <element signature="e#21118#21144#0" expanded="true" />
-            <element signature="e#21161#21188#0" expanded="true" />
-            <element signature="e#21212#21234#0" expanded="true" />
-            <element signature="e#26157#26323#0" expanded="true" />
-            <element signature="e#26322#26323#0" expanded="true" />
-            <element signature="e#26359#26625#0" expanded="true" />
-            <element signature="e#26624#26625#0" expanded="true" />
-            <element signature="e#26700#27304#0" expanded="true" />
-            <element signature="e#27303#27304#0" expanded="true" />
-            <element signature="e#27428#27904#0" expanded="true" />
-            <element signature="e#27903#27904#0" expanded="true" />
-            <element signature="e#28087#28438#0" expanded="true" />
-            <element signature="e#28437#28438#0" expanded="true" />
-            <element signature="e#28471#28644#0" expanded="true" />
-            <element signature="e#28643#28644#0" expanded="true" />
-            <element signature="e#28854#29216#0" expanded="true" />
-            <element signature="e#29215#29216#0" expanded="true" />
-            <element signature="e#29254#30425#0" expanded="true" />
-            <element signature="e#30424#30425#0" expanded="true" />
-            <element signature="e#30462#31820#0" expanded="true" />
-            <element signature="e#30727#31737#0" expanded="true" />
-            <element signature="e#31458#31665#0" expanded="true" />
-            <element signature="e#31664#31665#0" expanded="true" />
-            <element signature="e#31736#31737#0" expanded="true" />
-            <element signature="e#31819#31820#0" expanded="true" />
-            <element signature="e#36092#36160#0" expanded="true" />
-            <element signature="e#43325#46566#0" expanded="true" />
-            <element signature="e#46565#46566#0" expanded="true" />
-            <element signature="e#50633#51128#0" expanded="true" />
-            <element signature="e#51127#51128#0" expanded="true" />
+            <element signature="e#15478#15537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/hud_screen_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15478#15537#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2517,6 +2571,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/build/intermediates/res/merged/debug/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="77" column="43" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewControllerDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1550">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/ble_device_list_row.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/adapter/SettingsViewAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -2529,99 +2628,158 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/values/main_dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/ApplicationSettings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="71" column="72" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_personal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/modal/Transmitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-18/android/content/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="1877" column="31" selection-start-line="1877" selection-start-column="31" selection-end-line="1877" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/HudExViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="381" column="31" selection-start-line="381" selection-start-column="31" selection-end-line="381" selection-end-column="31" />
+        <state relative-caret-position="540">
+          <caret line="381" column="87" selection-start-line="381" selection-start-column="28" selection-end-line="381" selection-end-column="87" />
           <folding>
-            <element signature="e#11572#11621#0" expanded="true" />
-            <element signature="e#11628#11675#0" expanded="true" />
-            <element signature="e#12056#12109#0" expanded="true" />
-            <element signature="e#12116#12171#0" expanded="true" />
-            <element signature="e#12325#12378#0" expanded="true" />
-            <element signature="e#12391#12445#0" expanded="true" />
-            <element signature="e#12646#12699#0" expanded="true" />
-            <element signature="e#12712#12766#0" expanded="true" />
-            <element signature="e#12975#13027#0" expanded="true" />
-            <element signature="e#13040#13093#0" expanded="true" />
-            <element signature="e#13388#13440#0" expanded="true" />
-            <element signature="e#13453#13506#0" expanded="true" />
-            <element signature="e#14197#14253#0" expanded="true" />
-            <element signature="e#14260#14318#0" expanded="true" />
-            <element signature="e#14632#14703#0" expanded="true" />
-            <element signature="e#14709#14782#0" expanded="true" />
-            <element signature="e#15105#15159#0" expanded="true" />
-            <element signature="e#15166#15222#0" expanded="true" />
-            <element signature="e#15663#15723#0" expanded="true" />
-            <element signature="e#15731#15792#0" expanded="true" />
-            <element signature="e#16201#16247#0" expanded="true" />
-            <element signature="e#16254#16302#0" expanded="true" />
-            <element signature="e#16525#16570#0" expanded="true" />
-            <element signature="e#16577#16624#0" expanded="true" />
-            <element signature="e#16969#17025#0" expanded="true" />
-            <element signature="e#17032#17090#0" expanded="true" />
-            <element signature="e#17434#17483#0" expanded="true" />
-            <element signature="e#17490#17541#0" expanded="true" />
-            <element signature="e#20357#20585#0" expanded="true" />
-            <element signature="e#20584#20585#0" expanded="true" />
-            <element signature="e#21118#21144#0" expanded="true" />
-            <element signature="e#21161#21188#0" expanded="true" />
-            <element signature="e#21212#21234#0" expanded="true" />
-            <element signature="e#26157#26323#0" expanded="true" />
-            <element signature="e#26322#26323#0" expanded="true" />
-            <element signature="e#26359#26625#0" expanded="true" />
-            <element signature="e#26624#26625#0" expanded="true" />
-            <element signature="e#26700#27304#0" expanded="true" />
-            <element signature="e#27303#27304#0" expanded="true" />
-            <element signature="e#27428#27904#0" expanded="true" />
-            <element signature="e#27903#27904#0" expanded="true" />
-            <element signature="e#28087#28438#0" expanded="true" />
-            <element signature="e#28437#28438#0" expanded="true" />
-            <element signature="e#28471#28644#0" expanded="true" />
-            <element signature="e#28643#28644#0" expanded="true" />
-            <element signature="e#28854#29216#0" expanded="true" />
-            <element signature="e#29215#29216#0" expanded="true" />
-            <element signature="e#29254#30425#0" expanded="true" />
-            <element signature="e#30424#30425#0" expanded="true" />
-            <element signature="e#30462#31820#0" expanded="true" />
-            <element signature="e#30727#31737#0" expanded="true" />
-            <element signature="e#31458#31665#0" expanded="true" />
-            <element signature="e#31664#31665#0" expanded="true" />
-            <element signature="e#31736#31737#0" expanded="true" />
-            <element signature="e#31819#31820#0" expanded="true" />
-            <element signature="e#36092#36160#0" expanded="true" />
-            <element signature="e#43325#46566#0" expanded="true" />
-            <element signature="e#46565#46566#0" expanded="true" />
-            <element signature="e#50633#51128#0" expanded="true" />
-            <element signature="e#51127#51128#0" expanded="true" />
+            <element signature="e#15478#15537#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/SettingsViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="149" column="37" selection-start-line="149" selection-start-column="37" selection-end-line="149" selection-end-column="37" />
+          <folding>
+            <element signature="e#4072#4602#0" expanded="true" />
+            <element signature="e#4601#4602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BleConnectinManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="68" column="56" selection-start-line="68" selection-start-column="54" selection-end-line="68" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1971#3861#0" expanded="true" />
+            <element signature="e#3860#3861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/ble/BluetoothLeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="412" column="31" selection-start-line="412" selection-start-column="29" selection-end-line="412" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/res/layout/settings_page_connection.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+          <folding>
+            <element signature="e#286#1519#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/java/com/hexairbot/hexmini/FeedbackActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlexBot/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>

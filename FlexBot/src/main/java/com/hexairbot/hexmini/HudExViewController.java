@@ -379,7 +379,7 @@ public class HudExViewController extends ViewController
 
 		// Launch Button
 		launchBtn = new Button(res, R.drawable.sd_lauchnow, R.drawable.sd_lauchnow, Align.TOP_CENTER);
-		launchBtn.setMargin(400,0,0,0);
+		launchBtn.setMargin(res.getDimensionPixelOffset(R.dimen.main_launch_margin_top),0,0,0);
 		launchBtn.setVisible(true);
 
 		// Fire Button

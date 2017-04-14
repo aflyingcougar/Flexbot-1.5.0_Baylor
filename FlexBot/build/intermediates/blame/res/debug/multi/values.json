@@ -687,14 +687,7 @@
                     "endOffset": 4659
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1761,
-                        "endColumn": 57,
-                        "endOffset": 1814
-                    }
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
                 }
             },
             {
@@ -706,14 +699,7 @@
                     "endOffset": 4742
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1677,
-                        "endColumn": 82,
-                        "endOffset": 1755
-                    }
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
                 }
             },
             {
@@ -901,8 +887,8 @@
                     "startLine": 92,
                     "startColumn": 4,
                     "startOffset": 5763,
-                    "endColumn": 63,
-                    "endOffset": 5822
+                    "endColumn": 62,
+                    "endOffset": 5821
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -912,9 +898,9 @@
                 "to": {
                     "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 5827,
-                    "endColumn": 89,
-                    "endOffset": 5912
+                    "startOffset": 5826,
+                    "endColumn": 63,
+                    "endOffset": 5885
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -924,9 +910,9 @@
                 "to": {
                     "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 5917,
-                    "endColumn": 56,
-                    "endOffset": 5969
+                    "startOffset": 5890,
+                    "endColumn": 89,
+                    "endOffset": 5975
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -936,9 +922,9 @@
                 "to": {
                     "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 5974,
-                    "endColumn": 53,
-                    "endOffset": 6023
+                    "startOffset": 5980,
+                    "endColumn": 56,
+                    "endOffset": 6032
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -948,21 +934,28 @@
                 "to": {
                     "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 6028,
-                    "endColumn": 52,
-                    "endOffset": 6076
+                    "startOffset": 6037,
+                    "endColumn": 54,
+                    "endOffset": 6087
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1886,
+                        "endColumn": 54,
+                        "endOffset": 1936
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 6081,
-                    "endColumn": 60,
-                    "endOffset": 6137
+                    "startOffset": 6092,
+                    "endColumn": 53,
+                    "endOffset": 6141
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -972,9 +965,9 @@
                 "to": {
                     "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 6142,
-                    "endColumn": 60,
-                    "endOffset": 6198
+                    "startOffset": 6146,
+                    "endColumn": 52,
+                    "endOffset": 6194
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -984,9 +977,9 @@
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 6203,
-                    "endColumn": 54,
-                    "endOffset": 6253
+                    "startOffset": 6199,
+                    "endColumn": 60,
+                    "endOffset": 6255
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -996,9 +989,9 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 6258,
-                    "endColumn": 79,
-                    "endOffset": 6333
+                    "startOffset": 6260,
+                    "endColumn": 60,
+                    "endOffset": 6316
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
@@ -1008,33 +1001,33 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 6338,
-                    "endColumn": 53,
-                    "endOffset": 6387
+                    "startOffset": 6321,
+                    "endColumn": 54,
+                    "endOffset": 6371
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 6392,
-                    "endColumn": 56,
-                    "endOffset": 6444
+                    "startOffset": 6376,
+                    "endColumn": 79,
+                    "endOffset": 6451
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\main_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 6449,
-                    "endColumn": 59,
-                    "endOffset": 6504
+                    "startOffset": 6456,
+                    "endColumn": 53,
+                    "endOffset": 6505
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
@@ -1044,9 +1037,9 @@
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 6509,
-                    "endColumn": 60,
-                    "endOffset": 6565
+                    "startOffset": 6510,
+                    "endColumn": 56,
+                    "endOffset": 6562
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
@@ -1056,33 +1049,33 @@
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 6570,
-                    "endColumn": 63,
-                    "endOffset": 6629
+                    "startOffset": 6567,
+                    "endColumn": 59,
+                    "endOffset": 6622
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 6634,
-                    "endColumn": 67,
-                    "endOffset": 6697
+                    "startOffset": 6627,
+                    "endColumn": 60,
+                    "endOffset": 6683
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 6702,
-                    "endColumn": 85,
-                    "endOffset": 6783
+                    "startOffset": 6688,
+                    "endColumn": 63,
+                    "endOffset": 6747
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1092,21 +1085,21 @@
                 "to": {
                     "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 6788,
-                    "endColumn": 45,
-                    "endOffset": 6829
+                    "startOffset": 6752,
+                    "endColumn": 67,
+                    "endOffset": 6815
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 6834,
-                    "endColumn": 53,
-                    "endOffset": 6883
+                    "startOffset": 6820,
+                    "endColumn": 85,
+                    "endOffset": 6901
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1116,21 +1109,21 @@
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 6888,
-                    "endColumn": 56,
-                    "endOffset": 6940
+                    "startOffset": 6906,
+                    "endColumn": 45,
+                    "endOffset": 6947
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 6945,
-                    "endColumn": 47,
-                    "endOffset": 6988
+                    "startOffset": 6952,
+                    "endColumn": 53,
+                    "endOffset": 7001
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1140,21 +1133,21 @@
                 "to": {
                     "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 6993,
-                    "endColumn": 59,
-                    "endOffset": 7048
+                    "startOffset": 7006,
+                    "endColumn": 56,
+                    "endOffset": 7058
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 7053,
-                    "endColumn": 58,
-                    "endOffset": 7107
+                    "startOffset": 7063,
+                    "endColumn": 47,
+                    "endOffset": 7106
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1164,21 +1157,21 @@
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 7112,
-                    "endColumn": 63,
-                    "endOffset": 7171
+                    "startOffset": 7111,
+                    "endColumn": 59,
+                    "endOffset": 7166
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 7176,
-                    "endColumn": 65,
-                    "endOffset": 7237
+                    "startOffset": 7171,
+                    "endColumn": 58,
+                    "endOffset": 7225
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1188,9 +1181,9 @@
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 7242,
-                    "endColumn": 64,
-                    "endOffset": 7302
+                    "startOffset": 7230,
+                    "endColumn": 63,
+                    "endOffset": 7289
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1200,9 +1193,9 @@
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 7307,
+                    "startOffset": 7294,
                     "endColumn": 65,
-                    "endOffset": 7368
+                    "endOffset": 7355
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1212,33 +1205,33 @@
                 "to": {
                     "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 7373,
-                    "endColumn": 60,
-                    "endOffset": 7429
+                    "startOffset": 7360,
+                    "endColumn": 64,
+                    "endOffset": 7420
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 7434,
-                    "endColumn": 58,
-                    "endOffset": 7488
+                    "startOffset": 7425,
+                    "endColumn": 65,
+                    "endOffset": 7486
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 7493,
-                    "endColumn": 51,
-                    "endOffset": 7540
+                    "startOffset": 7491,
+                    "endColumn": 60,
+                    "endOffset": 7547
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
@@ -1248,33 +1241,33 @@
                 "to": {
                     "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 7545,
-                    "endColumn": 66,
-                    "endOffset": 7607
+                    "startOffset": 7552,
+                    "endColumn": 58,
+                    "endOffset": 7606
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 7612,
-                    "endColumn": 63,
-                    "endOffset": 7671
+                    "startOffset": 7611,
+                    "endColumn": 51,
+                    "endOffset": 7658
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 7676,
-                    "endColumn": 49,
-                    "endOffset": 7721
+                    "startOffset": 7663,
+                    "endColumn": 66,
+                    "endOffset": 7725
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1284,9 +1277,9 @@
                 "to": {
                     "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 7726,
-                    "endColumn": 55,
-                    "endOffset": 7777
+                    "startOffset": 7730,
+                    "endColumn": 63,
+                    "endOffset": 7789
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
@@ -1296,33 +1289,33 @@
                 "to": {
                     "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 7782,
-                    "endColumn": 55,
-                    "endOffset": 7833
+                    "startOffset": 7794,
+                    "endColumn": 49,
+                    "endOffset": 7839
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 7838,
-                    "endColumn": 45,
-                    "endOffset": 7879
+                    "startOffset": 7844,
+                    "endColumn": 55,
+                    "endOffset": 7895
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 7884,
-                    "endColumn": 50,
-                    "endOffset": 7930
+                    "startOffset": 7900,
+                    "endColumn": 55,
+                    "endOffset": 7951
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
@@ -1332,33 +1325,9 @@
                 "to": {
                     "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 7935,
-                    "endColumn": 52,
-                    "endOffset": 7983
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 129,
-                    "startColumn": 4,
-                    "startOffset": 7988,
-                    "endColumn": 57,
-                    "endOffset": 8041
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 130,
-                    "startColumn": 4,
-                    "startOffset": 8046,
-                    "endColumn": 63,
-                    "endOffset": 8105
+                    "startOffset": 7956,
+                    "endColumn": 45,
+                    "endOffset": 7997
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
@@ -1366,59 +1335,59 @@
             },
             {
                 "to": {
-                    "startLine": 131,
+                    "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 8110,
-                    "endColumn": 63,
-                    "endOffset": 8169
+                    "startOffset": 8002,
+                    "endColumn": 50,
+                    "endOffset": 8048
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 8053,
+                    "endColumn": 52,
+                    "endOffset": 8101
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 8106,
+                    "endColumn": 57,
+                    "endOffset": 8159
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimentions.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 8174,
-                    "endColumn": 73,
-                    "endOffset": 8243
+                    "startOffset": 8164,
+                    "endColumn": 63,
+                    "endOffset": 8223
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\settings_screen_dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 8248,
-                    "endColumn": 44,
-                    "endOffset": 8288
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 134,
-                    "startColumn": 4,
-                    "startOffset": 8293,
-                    "endColumn": 55,
-                    "endOffset": 8344
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 135,
-                    "startColumn": 4,
-                    "startOffset": 8349,
-                    "endColumn": 79,
-                    "endOffset": 8424
+                    "startOffset": 8228,
+                    "endColumn": 63,
+                    "endOffset": 8287
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1426,11 +1395,35 @@
             },
             {
                 "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 8292,
+                    "endColumn": 73,
+                    "endOffset": 8361
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 8366,
+                    "endColumn": 44,
+                    "endOffset": 8406
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
                     "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 8429,
-                    "endColumn": 186,
-                    "endOffset": 8611
+                    "startOffset": 8411,
+                    "endColumn": 55,
+                    "endOffset": 8462
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1440,21 +1433,21 @@
                 "to": {
                     "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 8616,
-                    "endColumn": 82,
-                    "endOffset": 8694
+                    "startOffset": 8467,
+                    "endColumn": 79,
+                    "endOffset": 8542
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 8699,
-                    "endColumn": 94,
-                    "endOffset": 8789
+                    "startOffset": 8547,
+                    "endColumn": 186,
+                    "endOffset": 8729
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1464,9 +1457,9 @@
                 "to": {
                     "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 8794,
-                    "endColumn": 43,
-                    "endOffset": 8833
+                    "startOffset": 8734,
+                    "endColumn": 82,
+                    "endOffset": 8812
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1476,9 +1469,9 @@
                 "to": {
                     "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 8838,
-                    "endColumn": 49,
-                    "endOffset": 8883
+                    "startOffset": 8817,
+                    "endColumn": 94,
+                    "endOffset": 8907
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1488,9 +1481,9 @@
                 "to": {
                     "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 8888,
-                    "endColumn": 65,
-                    "endOffset": 8949
+                    "startOffset": 8912,
+                    "endColumn": 43,
+                    "endOffset": 8951
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1500,9 +1493,9 @@
                 "to": {
                     "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 8954,
-                    "endColumn": 65,
-                    "endOffset": 9015
+                    "startOffset": 8956,
+                    "endColumn": 49,
+                    "endOffset": 9001
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1512,9 +1505,9 @@
                 "to": {
                     "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 9020,
-                    "endColumn": 71,
-                    "endOffset": 9087
+                    "startOffset": 9006,
+                    "endColumn": 65,
+                    "endOffset": 9067
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1524,9 +1517,9 @@
                 "to": {
                     "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 9092,
-                    "endColumn": 55,
-                    "endOffset": 9143
+                    "startOffset": 9072,
+                    "endColumn": 65,
+                    "endOffset": 9133
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1536,9 +1529,9 @@
                 "to": {
                     "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 9148,
-                    "endColumn": 47,
-                    "endOffset": 9191
+                    "startOffset": 9138,
+                    "endColumn": 71,
+                    "endOffset": 9205
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1548,9 +1541,9 @@
                 "to": {
                     "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 9196,
+                    "startOffset": 9210,
                     "endColumn": 55,
-                    "endOffset": 9247
+                    "endOffset": 9261
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1560,8 +1553,8 @@
                 "to": {
                     "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 9252,
-                    "endColumn": 61,
+                    "startOffset": 9266,
+                    "endColumn": 47,
                     "endOffset": 9309
                 },
                 "from": {
@@ -1573,20 +1566,32 @@
                     "startLine": 148,
                     "startColumn": 4,
                     "startOffset": 9314,
-                    "endColumn": 80,
-                    "endOffset": 9390
+                    "endColumn": 55,
+                    "endOffset": 9365
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 9395,
-                    "endColumn": 65,
-                    "endOffset": 9456
+                    "startOffset": 9370,
+                    "endColumn": 61,
+                    "endOffset": 9427
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 9432,
+                    "endColumn": 80,
+                    "endOffset": 9508
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1594,35 +1599,23 @@
             },
             {
                 "to": {
-                    "startLine": 150,
-                    "startColumn": 4,
-                    "startOffset": 9461,
-                    "endColumn": 63,
-                    "endOffset": 9520
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 9525,
-                    "endColumn": 59,
-                    "endOffset": 9580
+                    "startOffset": 9513,
+                    "endColumn": 65,
+                    "endOffset": 9574
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 9585,
-                    "endColumn": 71,
-                    "endOffset": 9652
+                    "startOffset": 9579,
+                    "endColumn": 63,
+                    "endOffset": 9638
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1632,21 +1625,21 @@
                 "to": {
                     "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 9657,
-                    "endColumn": 62,
-                    "endOffset": 9715
+                    "startOffset": 9643,
+                    "endColumn": 59,
+                    "endOffset": 9698
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 9720,
-                    "endColumn": 67,
-                    "endOffset": 9783
+                    "startOffset": 9703,
+                    "endColumn": 71,
+                    "endOffset": 9770
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1656,21 +1649,21 @@
                 "to": {
                     "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 9788,
-                    "endColumn": 45,
-                    "endOffset": 9829
+                    "startOffset": 9775,
+                    "endColumn": 62,
+                    "endOffset": 9833
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 9834,
-                    "endColumn": 44,
-                    "endOffset": 9874
+                    "startOffset": 9838,
+                    "endColumn": 67,
+                    "endOffset": 9901
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1680,9 +1673,9 @@
                 "to": {
                     "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 9879,
-                    "endColumn": 44,
-                    "endOffset": 9919
+                    "startOffset": 9906,
+                    "endColumn": 45,
+                    "endOffset": 9947
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1692,9 +1685,9 @@
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 9924,
-                    "endColumn": 46,
-                    "endOffset": 9966
+                    "startOffset": 9952,
+                    "endColumn": 44,
+                    "endOffset": 9992
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1704,9 +1697,9 @@
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 9971,
-                    "endColumn": 86,
-                    "endOffset": 10053
+                    "startOffset": 9997,
+                    "endColumn": 44,
+                    "endOffset": 10037
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1716,9 +1709,9 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 10058,
-                    "endColumn": 87,
-                    "endOffset": 10141
+                    "startOffset": 10042,
+                    "endColumn": 46,
+                    "endOffset": 10084
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1728,9 +1721,9 @@
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 10146,
-                    "endColumn": 48,
-                    "endOffset": 10190
+                    "startOffset": 10089,
+                    "endColumn": 86,
+                    "endOffset": 10171
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1740,9 +1733,9 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 10195,
-                    "endColumn": 62,
-                    "endOffset": 10253
+                    "startOffset": 10176,
+                    "endColumn": 87,
+                    "endOffset": 10259
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1752,9 +1745,9 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 10258,
-                    "endColumn": 70,
-                    "endOffset": 10324
+                    "startOffset": 10264,
+                    "endColumn": 48,
+                    "endOffset": 10308
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1764,9 +1757,9 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 10329,
-                    "endColumn": 40,
-                    "endOffset": 10365
+                    "startOffset": 10313,
+                    "endColumn": 62,
+                    "endOffset": 10371
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1776,9 +1769,9 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 10370,
-                    "endColumn": 67,
-                    "endOffset": 10433
+                    "startOffset": 10376,
+                    "endColumn": 70,
+                    "endOffset": 10442
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1788,9 +1781,9 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 10438,
-                    "endColumn": 50,
-                    "endOffset": 10484
+                    "startOffset": 10447,
+                    "endColumn": 40,
+                    "endOffset": 10483
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1800,33 +1793,33 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 10489,
-                    "endColumn": 43,
-                    "endOffset": 10528
+                    "startOffset": 10488,
+                    "endColumn": 67,
+                    "endOffset": 10551
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 10533,
-                    "endColumn": 110,
-                    "endOffset": 10639
+                    "startOffset": 10556,
+                    "endColumn": 50,
+                    "endOffset": 10602
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 10644,
-                    "endColumn": 96,
-                    "endOffset": 10736
+                    "startOffset": 10607,
+                    "endColumn": 43,
+                    "endOffset": 10646
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1836,9 +1829,9 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 10741,
-                    "endColumn": 53,
-                    "endOffset": 10790
+                    "startOffset": 10651,
+                    "endColumn": 110,
+                    "endOffset": 10757
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1848,9 +1841,9 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 10795,
-                    "endColumn": 55,
-                    "endOffset": 10846
+                    "startOffset": 10762,
+                    "endColumn": 96,
+                    "endOffset": 10854
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1860,9 +1853,9 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 10851,
+                    "startOffset": 10859,
                     "endColumn": 53,
-                    "endOffset": 10900
+                    "endOffset": 10908
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1872,21 +1865,21 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 10905,
-                    "endColumn": 48,
-                    "endOffset": 10949
+                    "startOffset": 10913,
+                    "endColumn": 55,
+                    "endOffset": 10964
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 10954,
-                    "endColumn": 66,
-                    "endOffset": 11016
+                    "startOffset": 10969,
+                    "endColumn": 53,
+                    "endOffset": 11018
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1896,21 +1889,9 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 11021,
-                    "endColumn": 69,
-                    "endOffset": 11086
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 176,
-                    "startColumn": 4,
-                    "startOffset": 11091,
-                    "endColumn": 65,
-                    "endOffset": 11152
+                    "startOffset": 11023,
+                    "endColumn": 48,
+                    "endOffset": 11067
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1918,11 +1899,23 @@
             },
             {
                 "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 11072,
+                    "endColumn": 66,
+                    "endOffset": 11134
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                }
+            },
+            {
+                "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 11157,
-                    "endColumn": 49,
-                    "endOffset": 11202
+                    "startOffset": 11139,
+                    "endColumn": 69,
+                    "endOffset": 11204
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1932,21 +1925,9 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 11207,
-                    "endColumn": 52,
-                    "endOffset": 11255
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 179,
-                    "startColumn": 4,
-                    "startOffset": 11260,
-                    "endColumn": 40,
-                    "endOffset": 11296
+                    "startOffset": 11209,
+                    "endColumn": 65,
+                    "endOffset": 11270
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -1954,11 +1935,23 @@
             },
             {
                 "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 11275,
+                    "endColumn": 49,
+                    "endOffset": 11320
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                }
+            },
+            {
+                "to": {
                     "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 11301,
-                    "endColumn": 115,
-                    "endOffset": 11412
+                    "startOffset": 11325,
+                    "endColumn": 52,
+                    "endOffset": 11373
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1968,9 +1961,21 @@
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 11417,
-                    "endColumn": 69,
-                    "endOffset": 11482
+                    "startOffset": 11378,
+                    "endColumn": 40,
+                    "endOffset": 11414
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 11419,
+                    "endColumn": 115,
+                    "endOffset": 11530
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -1978,35 +1983,23 @@
             },
             {
                 "to": {
-                    "startLine": 182,
-                    "startColumn": 4,
-                    "startOffset": 11487,
-                    "endColumn": 51,
-                    "endOffset": 11534
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 11539,
-                    "endColumn": 46,
-                    "endOffset": 11581
+                    "startOffset": 11535,
+                    "endColumn": 69,
+                    "endOffset": 11600
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 11586,
-                    "endColumn": 73,
-                    "endOffset": 11655
+                    "startOffset": 11605,
+                    "endColumn": 51,
+                    "endOffset": 11652
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2016,9 +2009,9 @@
                 "to": {
                     "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 11660,
+                    "startOffset": 11657,
                     "endColumn": 46,
-                    "endOffset": 11702
+                    "endOffset": 11699
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2028,33 +2021,33 @@
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 11707,
-                    "endColumn": 62,
-                    "endOffset": 11765
+                    "startOffset": 11704,
+                    "endColumn": 73,
+                    "endOffset": 11773
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 11770,
-                    "endColumn": 60,
-                    "endOffset": 11826
+                    "startOffset": 11778,
+                    "endColumn": 46,
+                    "endOffset": 11820
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 11831,
-                    "endColumn": 61,
-                    "endOffset": 11888
+                    "startOffset": 11825,
+                    "endColumn": 62,
+                    "endOffset": 11883
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2064,9 +2057,9 @@
                 "to": {
                     "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 11893,
-                    "endColumn": 69,
-                    "endOffset": 11958
+                    "startOffset": 11888,
+                    "endColumn": 60,
+                    "endOffset": 11944
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2076,9 +2069,9 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 11963,
-                    "endColumn": 69,
-                    "endOffset": 12028
+                    "startOffset": 11949,
+                    "endColumn": 61,
+                    "endOffset": 12006
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2088,9 +2081,9 @@
                 "to": {
                     "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 12033,
-                    "endColumn": 61,
-                    "endOffset": 12090
+                    "startOffset": 12011,
+                    "endColumn": 69,
+                    "endOffset": 12076
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2100,9 +2093,9 @@
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 12095,
-                    "endColumn": 66,
-                    "endOffset": 12157
+                    "startOffset": 12081,
+                    "endColumn": 69,
+                    "endOffset": 12146
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2112,9 +2105,9 @@
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 12162,
-                    "endColumn": 67,
-                    "endOffset": 12225
+                    "startOffset": 12151,
+                    "endColumn": 61,
+                    "endOffset": 12208
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2124,9 +2117,9 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 12230,
-                    "endColumn": 75,
-                    "endOffset": 12301
+                    "startOffset": 12213,
+                    "endColumn": 66,
+                    "endOffset": 12275
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2136,9 +2129,9 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 12306,
+                    "startOffset": 12280,
                     "endColumn": 67,
-                    "endOffset": 12369
+                    "endOffset": 12343
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2148,9 +2141,9 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 12374,
-                    "endColumn": 68,
-                    "endOffset": 12438
+                    "startOffset": 12348,
+                    "endColumn": 75,
+                    "endOffset": 12419
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2160,9 +2153,9 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 12443,
-                    "endColumn": 68,
-                    "endOffset": 12507
+                    "startOffset": 12424,
+                    "endColumn": 67,
+                    "endOffset": 12487
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2172,9 +2165,9 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 12512,
+                    "startOffset": 12492,
                     "endColumn": 68,
-                    "endOffset": 12576
+                    "endOffset": 12556
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2184,9 +2177,9 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 12581,
-                    "endColumn": 69,
-                    "endOffset": 12646
+                    "startOffset": 12561,
+                    "endColumn": 68,
+                    "endOffset": 12625
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2196,9 +2189,9 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 12651,
-                    "endColumn": 59,
-                    "endOffset": 12706
+                    "startOffset": 12630,
+                    "endColumn": 68,
+                    "endOffset": 12694
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2208,33 +2201,33 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 12711,
-                    "endColumn": 59,
-                    "endOffset": 12766
+                    "startOffset": 12699,
+                    "endColumn": 69,
+                    "endOffset": 12764
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 12771,
-                    "endColumn": 99,
-                    "endOffset": 12866
+                    "startOffset": 12769,
+                    "endColumn": 59,
+                    "endOffset": 12824
                 },
                 "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 12871,
-                    "endColumn": 69,
-                    "endOffset": 12936
+                    "startOffset": 12829,
+                    "endColumn": 59,
+                    "endOffset": 12884
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2244,9 +2237,9 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 12941,
-                    "endColumn": 61,
-                    "endOffset": 12998
+                    "startOffset": 12889,
+                    "endColumn": 99,
+                    "endOffset": 12984
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2256,9 +2249,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 13003,
-                    "endColumn": 79,
-                    "endOffset": 13078
+                    "startOffset": 12989,
+                    "endColumn": 69,
+                    "endOffset": 13054
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2268,9 +2261,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 13083,
-                    "endColumn": 87,
-                    "endOffset": 13166
+                    "startOffset": 13059,
+                    "endColumn": 61,
+                    "endOffset": 13116
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2280,9 +2273,9 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 13171,
-                    "endColumn": 69,
-                    "endOffset": 13236
+                    "startOffset": 13121,
+                    "endColumn": 79,
+                    "endOffset": 13196
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2292,9 +2285,9 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 13241,
-                    "endColumn": 77,
-                    "endOffset": 13314
+                    "startOffset": 13201,
+                    "endColumn": 87,
+                    "endOffset": 13284
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2304,9 +2297,9 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 13319,
-                    "endColumn": 65,
-                    "endOffset": 13380
+                    "startOffset": 13289,
+                    "endColumn": 69,
+                    "endOffset": 13354
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2316,9 +2309,9 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 13385,
-                    "endColumn": 69,
-                    "endOffset": 13450
+                    "startOffset": 13359,
+                    "endColumn": 77,
+                    "endOffset": 13432
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2328,9 +2321,9 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 13455,
-                    "endColumn": 75,
-                    "endOffset": 13526
+                    "startOffset": 13437,
+                    "endColumn": 65,
+                    "endOffset": 13498
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2340,9 +2333,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 13531,
-                    "endColumn": 51,
-                    "endOffset": 13578
+                    "startOffset": 13503,
+                    "endColumn": 69,
+                    "endOffset": 13568
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2352,9 +2345,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 13583,
-                    "endColumn": 59,
-                    "endOffset": 13638
+                    "startOffset": 13573,
+                    "endColumn": 75,
+                    "endOffset": 13644
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2364,9 +2357,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 13643,
-                    "endColumn": 83,
-                    "endOffset": 13722
+                    "startOffset": 13649,
+                    "endColumn": 51,
+                    "endOffset": 13696
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2376,9 +2369,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 13727,
-                    "endColumn": 61,
-                    "endOffset": 13784
+                    "startOffset": 13701,
+                    "endColumn": 59,
+                    "endOffset": 13756
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2388,9 +2381,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 13789,
-                    "endColumn": 77,
-                    "endOffset": 13862
+                    "startOffset": 13761,
+                    "endColumn": 83,
+                    "endOffset": 13840
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2400,9 +2393,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 13867,
-                    "endColumn": 54,
-                    "endOffset": 13917
+                    "startOffset": 13845,
+                    "endColumn": 61,
+                    "endOffset": 13902
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2412,9 +2405,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 13922,
-                    "endColumn": 71,
-                    "endOffset": 13989
+                    "startOffset": 13907,
+                    "endColumn": 77,
+                    "endOffset": 13980
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2424,9 +2417,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 13994,
-                    "endColumn": 72,
-                    "endOffset": 14062
+                    "startOffset": 13985,
+                    "endColumn": 54,
+                    "endOffset": 14035
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2436,9 +2429,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 14067,
-                    "endColumn": 61,
-                    "endOffset": 14124
+                    "startOffset": 14040,
+                    "endColumn": 71,
+                    "endOffset": 14107
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2448,9 +2441,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 14129,
-                    "endColumn": 69,
-                    "endOffset": 14194
+                    "startOffset": 14112,
+                    "endColumn": 72,
+                    "endOffset": 14180
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2460,9 +2453,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 14199,
-                    "endColumn": 63,
-                    "endOffset": 14258
+                    "startOffset": 14185,
+                    "endColumn": 61,
+                    "endOffset": 14242
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2472,9 +2465,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 14263,
-                    "endColumn": 46,
-                    "endOffset": 14305
+                    "startOffset": 14247,
+                    "endColumn": 69,
+                    "endOffset": 14312
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2484,9 +2477,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 14310,
-                    "endColumn": 39,
-                    "endOffset": 14345
+                    "startOffset": 14317,
+                    "endColumn": 63,
+                    "endOffset": 14376
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2496,9 +2489,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 14350,
-                    "endColumn": 43,
-                    "endOffset": 14389
+                    "startOffset": 14381,
+                    "endColumn": 46,
+                    "endOffset": 14423
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
@@ -2508,9 +2501,33 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 14394,
+                    "startOffset": 14428,
+                    "endColumn": 39,
+                    "endOffset": 14463
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 14468,
+                    "endColumn": 43,
+                    "endOffset": 14507
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 14512,
                     "endColumn": 122,
-                    "endOffset": 14512
+                    "endOffset": 14630
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\strings_vmc.xml"
@@ -2518,12 +2535,12 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 14517,
-                    "endLine": 229,
+                    "startOffset": 14635,
+                    "endLine": 231,
                     "endColumn": 12,
-                    "endOffset": 14595
+                    "endOffset": 14713
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2531,12 +2548,12 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 14600,
-                    "endLine": 232,
+                    "startOffset": 14718,
+                    "endLine": 234,
                     "endColumn": 12,
-                    "endOffset": 14667
+                    "endOffset": 14785
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2544,12 +2561,12 @@
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 14672,
-                    "endLine": 240,
+                    "startOffset": 14790,
+                    "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 15103
+                    "endOffset": 15221
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2557,12 +2574,12 @@
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 15108,
-                    "endLine": 247,
+                    "startOffset": 15226,
+                    "endLine": 249,
                     "endColumn": 12,
-                    "endOffset": 15431
+                    "endOffset": 15549
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2570,11 +2587,11 @@
             },
             {
                 "to": {
-                    "startLine": 248,
+                    "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 15436,
+                    "startOffset": 15554,
                     "endColumn": 35,
-                    "endOffset": 15467
+                    "endOffset": 15585
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2582,12 +2599,12 @@
             },
             {
                 "to": {
-                    "startLine": 249,
+                    "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 15472,
-                    "endLine": 255,
+                    "startOffset": 15590,
+                    "endLine": 257,
                     "endColumn": 12,
-                    "endOffset": 15908
+                    "endOffset": 16026
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2595,12 +2612,12 @@
             },
             {
                 "to": {
-                    "startLine": 256,
+                    "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 15913,
-                    "endLine": 258,
+                    "startOffset": 16031,
+                    "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 16055
+                    "endOffset": 16173
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2608,49 +2625,36 @@
             },
             {
                 "to": {
-                    "startLine": 259,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 16060,
-                    "endLine": 264,
+                    "startOffset": 16178,
+                    "endLine": 266,
                     "endColumn": 12,
-                    "endOffset": 16391
+                    "endOffset": 16509
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 265,
-                    "startColumn": 4,
-                    "startOffset": 16396,
-                    "endColumn": 61,
-                    "endOffset": 16453
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\themes.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 266,
-                    "startColumn": 4,
-                    "startOffset": 16458,
-                    "endColumn": 224,
-                    "endOffset": 16678
-                },
-                "from": {
-                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\themes.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 16683,
-                    "endLine": 268,
-                    "endColumn": 8,
-                    "endOffset": 16818
+                    "startOffset": 16514,
+                    "endColumn": 61,
+                    "endOffset": 16571
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\themes.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 16576,
+                    "endColumn": 224,
+                    "endOffset": 16796
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\themes.xml"
@@ -2660,10 +2664,23 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 16823,
-                    "endLine": 271,
+                    "startOffset": 16801,
+                    "endLine": 270,
+                    "endColumn": 8,
+                    "endOffset": 16936
+                },
+                "from": {
+                    "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\themes.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 16941,
+                    "endLine": 273,
                     "endColumn": 12,
-                    "endOffset": 16928
+                    "endOffset": 17046
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2671,12 +2688,12 @@
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 16933,
-                    "endLine": 274,
+                    "startOffset": 17051,
+                    "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 17056
+                    "endOffset": 17174
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2684,12 +2701,12 @@
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 17061,
-                    "endLine": 277,
+                    "startOffset": 17179,
+                    "endLine": 279,
                     "endColumn": 12,
-                    "endOffset": 17183
+                    "endOffset": 17301
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2697,11 +2714,11 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 17188,
+                    "startOffset": 17306,
                     "endColumn": 89,
-                    "endOffset": 17273
+                    "endOffset": 17391
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2709,12 +2726,12 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 17278,
-                    "endLine": 281,
+                    "startOffset": 17396,
+                    "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 17398
+                    "endOffset": 17516
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2722,12 +2739,12 @@
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 17403,
-                    "endLine": 284,
+                    "startOffset": 17521,
+                    "endLine": 286,
                     "endColumn": 12,
-                    "endOffset": 17518
+                    "endOffset": 17636
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2735,12 +2752,12 @@
             },
             {
                 "to": {
-                    "startLine": 285,
+                    "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 17523,
-                    "endLine": 287,
+                    "startOffset": 17641,
+                    "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 17665
+                    "endOffset": 17783
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2748,12 +2765,12 @@
             },
             {
                 "to": {
-                    "startLine": 288,
+                    "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 17670,
-                    "endLine": 291,
+                    "startOffset": 17788,
+                    "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 17887
+                    "endOffset": 18005
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\styles.xml"
@@ -2761,12 +2778,12 @@
             },
             {
                 "to": {
-                    "startLine": 292,
+                    "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 17892,
-                    "endLine": 297,
+                    "startOffset": 18010,
+                    "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 18242
+                    "endOffset": 18360
                 },
                 "from": {
                     "file": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values\\view_pager_indicator_style.xml"

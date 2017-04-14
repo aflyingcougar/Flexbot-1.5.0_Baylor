@@ -37,11 +37,11 @@ public class BleConnectinManager  {
         public void onServiceConnected(ComponentName componentName, IBinder service) {
             mBluetoothLeService = ((BluetoothLeService.LocalBinder) service).getService();
             if (!mBluetoothLeService.initialize()) {
-                Log.e(TAG, "Unable to initialize Bluetooth");
+                Log.i(TAG, "Unable to initialize Bluetooth");
                 mBluetoothLeService = null;
             }
             else{
-                Log.e(TAG, "mBluetoothLeService is okay");
+                Log.i(TAG, "mBluetoothLeService is okay");
             }
         }
 

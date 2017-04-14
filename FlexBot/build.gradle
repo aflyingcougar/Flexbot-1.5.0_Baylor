@@ -2,13 +2,13 @@ apply plugin: 'com.android.application'
 
 android {
     sourceSets.main.jni.srcDirs = []  // Disable the NDK Due to Errors, Could be Fixed
-    compileSdkVersion 18
+    compileSdkVersion 22
     buildToolsVersion "24.0.3"
 
     defaultConfig {
         applicationId "com.hexairbot.hexmini"
         minSdkVersion 18
-        targetSdkVersion 19
+        targetSdkVersion 22
     }
 
     buildTypes {

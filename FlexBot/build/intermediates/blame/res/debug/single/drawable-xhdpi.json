@@ -44,20 +44,20 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_help_hl.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_2.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_wifi_2.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_bg.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_bg.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_reset_orange_disabled.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_reset_orange_disabled.png"
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_2.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_wifi_2.png"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transparent_bg_tile.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\transparent_bg_tile.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_reset_orange_disabled.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_reset_orange_disabled.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_right_normal.png",
@@ -144,12 +144,12 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_reset_orange_disabled.png"
     },
     {
-        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record_pressed.png",
-        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record_pressed.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_videos.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_videos.png"
+    },
+    {
+        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record_pressed.png",
+        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record_pressed.png"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alt_hold_off_hl.png",
@@ -176,12 +176,12 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\back_btn_settings_normal.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_capture_press.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_capture_press.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_arrow_left_hl.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_arrow_left_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_capture_press.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_capture_press.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_new.png",
@@ -232,12 +232,12 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\scroll_bar_orange.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\barre_haut.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\barre_haut.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_06.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_06.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\barre_haut.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\barre_haut.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gesture_on_press.png",
@@ -248,12 +248,12 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_videos_selected.png"
     },
     {
-        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_1.png",
-        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_1.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_off_disabled.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_off_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_1.png",
+        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_1.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\device_battery_2.png",
@@ -308,24 +308,24 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_firecannon.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_hold_on_normal.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_hold_on_normal.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_01.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_01.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_hold_on_normal.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_hold_on_normal.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_up_hl.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_up_hl.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_unlock_press.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_unlock_press.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_roll_pitch_new.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_roll_pitch_new.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_unlock_press.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_unlock_press.png"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recording_status.png",
@@ -360,12 +360,12 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\wifi_indicator_3.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fire_off_press.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\fire_off_press.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fire_off_press.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\fire_off_press.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_1.png",
@@ -392,12 +392,12 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record1_pressed.png"
     },
     {
-        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_up_hl.png",
-        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_up_hl.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_0.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_up_hl.png",
+        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_up_hl.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_threemotor_on.png",
@@ -444,12 +444,12 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\screw.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_center_normal.9.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_center_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_tile.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\bg_tile.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_center_normal.9.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_center_normal.9.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_settings_normal1_press.png",
@@ -524,12 +524,12 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\logo_new.png"
     },
     {
-        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bar_bottom.png",
-        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\bar_bottom.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_left_pressed.9.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_left_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bar_bottom.png",
+        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\bar_bottom.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\fire_on_press.png",
@@ -544,12 +544,12 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\album_play_btn_hl.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gesture_on_normal.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gesture_on_normal.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recording_status.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\recording_status.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gesture_on_normal.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gesture_on_normal.png"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_lock_normal.png",
@@ -644,12 +644,12 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_play_normal.png"
     },
     {
-        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_videos_selected.png",
-        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_videos_selected.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\althold_indicator_off.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\althold_indicator_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_videos_selected.png",
+        "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_videos_selected.png"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record1.png",
@@ -724,12 +724,12 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_on_normal.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_down_hl.png",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_down_hl.png"
-    },
-    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_delete_pressed.png",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_delete_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_down_hl.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_down_hl.png"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seekbar_point.png",
@@ -858,6 +858,10 @@
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_0.png",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_wifi_0.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_launcher.png",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\drawable-xhdpi\\new_launcher.png"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_0.png",

@@ -125,7 +125,8 @@ public class SettingsViewController extends ViewController
             ((Activity)(SettingsViewController.this.context)).runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
-                	bleDeviceListAdapter.addDevice(device, rssi);
+                	Log.i(TAG, "DEVICE ADDED TO LIST");
+					bleDeviceListAdapter.addDevice(device, rssi);
                 	bleDeviceListAdapter.notifyDataSetChanged();
                 }
             });
@@ -432,7 +433,6 @@ public class SettingsViewController extends ViewController
 				if (bleAvailabed) {
 					if (isScanning) {
 						mBluetoothAdapter.stopLeScan(mLeScanCallback);
-
 						isScanning = false;
 						scanBtn.setText(R.string.btn_title_scan);
 						scanningStateTextView.setVisibility(View.INVISIBLE);
@@ -471,7 +471,7 @@ public class SettingsViewController extends ViewController
 						scanBtn.setText(R.string.btn_title_stop_scan);
 
 						if (mBluetoothAdapter.startLeScan(mLeScanCallback)) {
-							Log.d(TAG, "ble scan start successful");
+							Log.i(TAG, "ble scan start successful");
 						} 
 						else {
 							Log.d(TAG, "ble scan start");
@@ -849,6 +849,7 @@ public class SettingsViewController extends ViewController
 				}
 				else{
 					bleDeviceNameTextView.setText(R.string.unknown);
+					Log.i(TAG, "unknown device found");
 				}
 				 
 								//bleDeviceAddressTextView.setText(mLeDevices.get(position).getAddress());
