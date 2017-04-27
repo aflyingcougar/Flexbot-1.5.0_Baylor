@@ -12,16 +12,40 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\share_media.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_screen.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_04.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_04.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_05.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\help_page_05.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\main.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_screen.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_screen.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\ble_device_list_row.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\ble_device_list_row.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_angel_trim.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_angel_trim.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_video.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_video.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\share_media.xml",
@@ -32,12 +56,20 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_02.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_03.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_03.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_connection.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_connection.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_06.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\help_page_06.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\custom_progress_dialog.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_layout.xml",
@@ -48,12 +80,12 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\media_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
-        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\progress_dialog.xml"
-    },
-    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_personal.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\progress_dialog.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_video.xml",
@@ -62,6 +94,14 @@
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\share_media.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\share_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\progress_dialog.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_01.xml",
@@ -84,6 +124,10 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_04.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\hud.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\hud.xml"
+    },
+    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_screen.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\help_screen.xml"
     },
@@ -104,16 +148,40 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\settings_screen.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_01.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_01.xml"
+    },
+    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_net.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\settings_page_net.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_about.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_layout.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\gallery_layout.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\hud.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\hud.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_angel_trim.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_angel_trim.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_video.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_net.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_net.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_screen_dimentions.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_screen_dimentions.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
@@ -132,6 +200,10 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_net.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_screen.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_05.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_05.xml"
     },
@@ -144,12 +216,20 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\gallery_layout.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_mode.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_mode.xml"
+    },
+    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_about.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\settings_page_about.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_mode.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\settings_page_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_06.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_06.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_03.xml",
@@ -176,8 +256,16 @@
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\media_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_personal.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_personal.xml"
+    },
+    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\ble_device_list_row.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\ble_device_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\hud_view_controller_framelayout.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\hud_view_controller_framelayout.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
@@ -196,12 +284,24 @@
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\settings_page_angel_trim.xml"
     },
     {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_02.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_02.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_05.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_05.xml"
+    },
+    {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_connection.xml",
         "source": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\src\\main\\res\\layout\\settings_page_connection.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_06.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_06.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\settings_page_connection.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\settings_page_connection.xml"
     },
     {
         "merged": "C:\\Users\\Nigel\\Dropbox\\BattleDrone\\Android App\\New APP\\Flexbot_v1.5.0_apkpure.com_source_from_JADX\\Flexbot-1.5.0\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\hud_view_controller_framelayout.xml",
@@ -214,5 +314,13 @@
     {
         "merged": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\help_page_03.xml",
         "source": "C:\\Users\\CJ\\Documents\\Android\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\help_page_03.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\res\\merged\\debug\\layout\\media_item_layout.xml",
+        "source": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\layout\\media_item_layout.xml"
     }
 ]

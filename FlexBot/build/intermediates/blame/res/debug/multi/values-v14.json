@@ -50,5 +50,31 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\cjtul\\Desktop\\Flexbot-1.5.0_Baylor\\FlexBot\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 451
+                    }
+                }
+            }
+        ]
     }
 ]

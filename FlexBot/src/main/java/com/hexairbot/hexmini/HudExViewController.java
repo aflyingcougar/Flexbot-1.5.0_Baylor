@@ -314,13 +314,18 @@ public class HudExViewController extends ViewController
 		middleBg.setVisible(true);
 		middleBg.setSizeParams(SizeParams.REPEATED, SizeParams.REPEATED);
 		middleBg.setAlphaEnabled(true);		
-		
-		Image logo = new Image(res, R.drawable.logo_new, Align.BOTTOM_LEFT);
-		logo.setMargin(0, 0, (int)res.getDimension(R.dimen.main_logo_margin_bottom), (int)res.getDimension(R.dimen.main_logo_margin_left));
-		
+
+		/****************** Baylor Modified Logo and WEb Address *************************/
+		// Logo
+		Image logo = new Image(res, R.drawable.logo_new, Align.TOP_LEFT);
+		logo.setMargin((int)res.getDimension(R.dimen.main_logo_margin_top), 0, 0,(int)res.getDimension(R.dimen.main_logo_margin_left));
+
+		// Web Address
 		//Image web_address = new Image(res, R.drawable.web_address, Align.BOTTOM_RIGHT);
 		//web_address.setMargin(0, (int)res.getDimension(R.dimen.main_web_address_margin_right), (int)res.getDimension(R.dimen.main_web_address_margin_bottom), 0);
-		
+		/****************** End Baylor Modified Logo and WEb Address *********************/
+
+
 		Button helpBtn = new Button(res, R.drawable.btn_help_normal, R.drawable.btn_help_hl, Align.TOP_RIGHT);
 		helpBtn.setMargin((int)res.getDimension(R.dimen.hud_btn_settings_margin_top), (int)res.getDimension(R.dimen.hud_btn_settings_margin_right) * 4, 0, 0);
 		

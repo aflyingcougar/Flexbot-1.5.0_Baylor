@@ -3,21 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\libs\android-support-v4.jar"
+        jar="C:\Users\cjtul\Desktop\Flexbot-1.5.0_Baylor\FlexBot\libs\android-support-v4.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
-        <dex dex="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\build\intermediates\pre-dexed\debug\android-support-v4_67066e62bd22de8d7217bebef09d7f80790b2a16.jar" />
+        <dex dex="C:\Users\cjtul\Desktop\Flexbot-1.5.0_Baylor\FlexBot\build\intermediates\pre-dexed\debug\android-support-v4_3013b28154cb72507c435adc751bbac7908cbfc1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\libs\dd-plist.jar"
+        jar="C:\Users\cjtul\Desktop\Flexbot-1.5.0_Baylor\FlexBot\libs\dd-plist.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="f20e82467afa621db623c8e33be18783a57af1c4">
-        <dex dex="C:\Users\CJ\Documents\Android\Flexbot-1.5.0_Baylor\FlexBot\build\intermediates\pre-dexed\debug\dd-plist_f4735c8570f528123eee64287d655cf4e31afedb.jar" />
+        <dex dex="C:\Users\cjtul\Desktop\Flexbot-1.5.0_Baylor\FlexBot\build\intermediates\pre-dexed\debug\dd-plist_68cd8a89fbb6bfc5d090c8711559ca256505c871.jar" />
     </item>
 
 </items>
